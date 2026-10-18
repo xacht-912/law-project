@@ -1,0 +1,3217 @@
+{
+  "A": [
+    {
+      "id": "A01",
+      "set": "A",
+      "topic": "Gestalt & Object Forms",
+      "level": "basic",
+      "source": "S",
+      "page": "1",
+      "q": "เมื่อมองภาพที่มีรูปแจกันสีขาวอยู่ระหว่างใบหน้าสีดำสองด้าน ส่วนใดเรียกว่า Figure ในขณะที่ผู้มองกำลังเห็นแจกัน?",
+      "opts": [
+        "รูปแจกันสีขาวที่เป็นวัตถุเด่น",
+        "ส่วนใบหน้าสีดำที่ยังไม่ถูกสนใจ",
+        "พื้นที่ทั้งหมดของภาพอย่างเท่าเทียม",
+        "ช่องว่างที่ไม่มีรายละเอียดใดเลย"
+      ],
+      "correct": 0,
+      "why": "Figure คือบริเวณที่ถูกรับรู้เป็นรูปร่างเด่น ส่วน Ground คือบริเวณที่ทำหน้าที่เป็นพื้นหลัง และทั้งสองอาจสลับกันได้",
+      "error": "confusion",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Two%20silhouette%20profile%20or%20a%20white%20vase.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_silhouette_profile_or_a_white_vase.svg",
+        "credit": "Ian Remsen · Wikimedia Commons · CC0 1.0",
+        "alt": "ภาพประกอบสำหรับข้อ A01",
+        "license": "CC0 1.0",
+        "author": "Ian Remsen",
+        "type": "external"
+      }
+    },
+    {
+      "id": "A02",
+      "set": "A",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "source": "D",
+      "page": "7–8,34–35",
+      "q": "จากภาพถ่ายถนน วัตถุบางชิ้นบังรายละเอียดของวัตถุหรือพื้นผิวด้านหลัง ข้อใดเป็นหลักฐานที่ตรงที่สุดในการบอกว่าวัตถุใดอยู่ด้านหน้า?",
+      "opts": [
+        "รถอยู่ด้านหน้าเพราะภาพบนจอประสาทตาใหญ่กว่า",
+        "ทั้งสองอยู่ระยะเดียวกันเพราะปรากฏในภาพเดียวกัน",
+        "บอกลำดับหน้า–หลังไม่ได้ถ้าไม่รู้ขนาดจริง",
+        "แผ่นป้ายอยู่ด้านหน้ารถเพราะขอบของป้ายบังรถ"
+      ],
+      "correct": 3,
+      "why": "Interposition บอกลำดับความลึกสัมพันธ์จากการบังกัน ส่วน Relative Size ต้องพิจารณาสมมติฐานเรื่องขนาดวัตถุด้วย",
+      "error": "application",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Depth%20cues%201.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Depth_cues_1.png",
+        "author": "Brazzit",
+        "license": "CC BY-SA 3.0",
+        "credit": "Brazzit · Wikimedia Commons · CC BY-SA 3.0",
+        "alt": "ภาพถ่ายถนนที่มีหลายตัวชี้นำความลึก"
+      }
+    },
+    {
+      "id": "A03",
+      "set": "A",
+      "topic": "Perceptual Constancy",
+      "level": "basic",
+      "source": "C,S",
+      "page": "5–8,2",
+      "q": "ข้อใดแยก Lightness กับ Brightness ได้ถูกต้องที่สุด?",
+      "opts": [
+        "Lightness คือความเข้มแสงที่ตกกระทบเพียงอย่างเดียว ส่วน Brightness คือสีของวัตถุ",
+        "Lightness และ Brightness ต้องเปลี่ยนพร้อมกันทุกครั้ง",
+        "Lightness เกี่ยวกับความสว่างหรือค่าขาวดำของพื้นผิว ส่วน Brightness เกี่ยวกับความสว่างที่ปรากฏ",
+        "Lightness ใช้เฉพาะวัตถุมีสี ส่วน Brightness ใช้เฉพาะขาวดำ"
+      ],
+      "correct": 2,
+      "why": "Lightness สัมพันธ์กับคุณภาพพื้นผิว/การสะท้อนแสงที่รับรู้ ส่วน Brightness คือความสว่างที่รู้สึกเห็นภายใต้แสงที่ตกกระทบ",
+      "error": "terminology"
+    },
+    {
+      "id": "A04",
+      "set": "A",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "source": "C",
+      "page": "69–73",
+      "q": "ภาพรางรถไฟลู่เข้าหากันมีเส้นแนวนอนยาวเท่ากันวางขวางรางสองระดับ แต่เส้นด้านบนดูยาวกว่า คำอธิบายใดเข้ากับ Ponzo illusion มากที่สุด?",
+      "opts": [
+        "เส้นด้านบนมีความยาวทางกายภาพมากกว่าจริง",
+        "ตัวชี้นำมุมมองทำให้เส้นด้านบนดูอยู่ไกลกว่า จึงถูกตีความว่ามีขนาดใหญ่กว่า",
+        "ดวงตาทั้งสองเห็นภาพไม่ตรงกันจึงทำให้เส้นบนยาวขึ้น",
+        "เกิดจากสีของเส้นบนที่อิ่มตัวมากกว่า"
+      ],
+      "correct": 1,
+      "why": "Ponzo illusion ใช้เส้นที่ลู่เข้ากันเป็นตัวชี้นำระยะ ความยาวบนภาพเท่ากันแต่ดูต่างจากการตีความระยะและขนาด",
+      "error": "mechanism",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ponzo%20illusion.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponzo_illusion.svg",
+        "credit": "PolBr · Wikimedia Commons · CC BY-SA 4.0",
+        "alt": "ภาพประกอบสำหรับข้อ A04",
+        "license": "CC BY-SA 4.0",
+        "author": "PolBr",
+        "type": "external"
+      }
+    },
+    {
+      "id": "A05",
+      "set": "A",
+      "topic": "Perceiving Depth & Size",
+      "level": "basic",
+      "source": "D",
+      "page": "42–43",
+      "q": "Accommodation ใช้ข้อมูลใดช่วยการรับรู้ระยะใกล้?",
+      "opts": [
+        "การปรับความโค้งของเลนส์ตาเพื่อให้ภาพชัด",
+        "การรับภาพที่แตกต่างกันของตาซ้ายและขวา",
+        "การลู่ของเส้นขนานในภาพวาด",
+        "ขนาดของวัตถุที่คุ้นเคยจากความจำ"
+      ],
+      "correct": 0,
+      "why": "Accommodation คือการปรับกำลังหักเห/รูปร่างเลนส์เพื่อโฟกัสวัตถุ โดยเป็น monocular cue ชนิดหนึ่ง",
+      "error": "terminology"
+    },
+    {
+      "id": "A06",
+      "set": "A",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "source": "S",
+      "page": "6–7",
+      "q": "เมื่อจ้องสี่เหลี่ยมสีแดงอยู่นานแล้วหันไปมองพื้นขาว เห็นภาพติดตาออกเขียว ข้อใดอธิบายได้ตรงที่สุด?",
+      "opts": [
+        "Positive afterimage ทำให้เห็นสีแดงเดิมชัดขึ้นเสมอ",
+        "Binocular disparity สร้างภาพติดตาต่างสี",
+        "Size constancy ทำให้ความเข้มสีเปลี่ยนไป",
+        "Negative afterimage สอดคล้องกับกระบวนการคู่ตรงข้ามของสี"
+      ],
+      "correct": 3,
+      "why": "ภาพติดตาสีตรงข้ามสัมพันธ์กับการปรับตัวของระบบสีแบบ opponent-process ไม่ใช่ตัวชี้นำความลึก",
+      "error": "mechanism"
+    },
+    {
+      "id": "A07",
+      "set": "A",
+      "topic": "Visual Illusions",
+      "level": "basic",
+      "source": "C",
+      "page": "53–56",
+      "q": "วงกลมตรงกลางสองวงมีขนาดเท่ากัน แต่วงหนึ่งล้อมด้วยวงใหญ่ อีกวงล้อมด้วยวงเล็ก ภาพลวงตานี้ชื่ออะไร?",
+      "opts": [
+        "Poggendorff illusion",
+        "Ames room illusion",
+        "Ebbinghaus illusion",
+        "Müller-Lyer illusion"
+      ],
+      "correct": 2,
+      "why": "Ebbinghaus illusion คือการประเมินขนาดวัตถุเป้าหมายเปลี่ยนตามขนาดสิ่งที่ล้อมรอบ แม้เป้าหมายเท่ากัน",
+      "error": "terminology",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ebbinghaus%20Illusion.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ebbinghaus_Illusion.svg",
+        "credit": "AlexWorth91 · Wikimedia Commons · CC0 1.0",
+        "alt": "ภาพประกอบสำหรับข้อ A07",
+        "license": "CC0 1.0",
+        "author": "AlexWorth91",
+        "type": "external"
+      }
+    },
+    {
+      "id": "A08",
+      "set": "A",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "source": "S",
+      "page": "2",
+      "q": "จุดสองกลุ่มมีระยะห่างภายในกลุ่มใกล้เคียงกัน แต่กลุ่มหนึ่งถูกล้อมด้วยกรอบรูปไข่เดียว ผู้มองรวมจุดตามกรอบมากกว่า อะไรอธิบายได้ตรงที่สุด?",
+      "opts": [
+        "Proximity เพราะจุดทุกจุดต้องอยู่ชิดกันที่สุดเสมอ",
+        "Common region เพราะการอยู่ภายในบริเวณที่มีขอบร่วมกันช่วยจัดกลุ่ม",
+        "Closure เพราะผู้มองเติมส่วนของจุดให้สมบูรณ์",
+        "Common fate เพราะจุดเคลื่อนที่ไปทิศเดียวกัน"
+      ],
+      "correct": 1,
+      "why": "Common region ทำให้สิ่งที่อยู่ภายในขอบเขตร่วมถูกรับรู้เป็นกลุ่ม แม้ความใกล้กันไม่เปลี่ยน",
+      "error": "confusion",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LawofcommonRegion.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LawofcommonRegion.jpg",
+        "credit": "BE12M · Wikimedia Commons · CC BY-SA 4.0",
+        "alt": "ภาพประกอบสำหรับข้อ A08",
+        "license": "CC BY-SA 4.0",
+        "author": "BE12M",
+        "type": "external"
+      }
+    },
+    {
+      "id": "A09",
+      "set": "A",
+      "topic": "Perceiving Depth & Size",
+      "level": "basic",
+      "source": "D",
+      "page": "51–52",
+      "q": "Binocular disparity เกิดจากอะไร?",
+      "opts": [
+        "ภาพบนจอประสาทตาของตาทั้งสองต่างกันเล็กน้อยเพราะอยู่คนละตำแหน่ง",
+        "เลนส์ตาข้างเดียวปรับความโค้งตามระยะ",
+        "วัตถุไกลมีสีจางเพราะชั้นบรรยากาศ",
+        "วัตถุที่บังอีกวัตถุหนึ่งอยู่ด้านหน้า"
+      ],
+      "correct": 0,
+      "why": "ตำแหน่งตาซ้าย–ขวาที่ต่างกันทำให้ภาพสองตามีความคลาดเคลื่อน เป็น binocular cue",
+      "error": "terminology"
+    },
+    {
+      "id": "A10",
+      "set": "A",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "source": "C",
+      "page": "18–30",
+      "q": "คนคนหนึ่งเดินถอยหลังจากเรา ภาพเขาบนเรตินาเล็กลง แต่เรายังรู้สึกว่าความสูงจริงของเขาเท่าเดิม เพราะอะไร?",
+      "opts": [
+        "Shape constancy ทำให้ทุกวัตถุคงรูปสามมิติ",
+        "Retinal image คงขนาดเท่าเดิมโดยไม่เปลี่ยน",
+        "Opponent-process ปรับการรับรู้ความสูง",
+        "Size constancy ผสานข้อมูลระยะทางกับขนาดภาพ"
+      ],
+      "correct": 3,
+      "why": "Size constancy ช่วยรับรู้ขนาดวัตถุคงเดิม แม้ขนาดภาพบนเรตินาเปลี่ยนตามระยะ",
+      "error": "mechanism"
+    },
+    {
+      "id": "A11",
+      "set": "A",
+      "topic": "Perceptual Development",
+      "level": "basic",
+      "source": "S",
+      "page": "8",
+      "q": "Preferential looking ใช้วิธีใดศึกษาการรับรู้ของทารกเป็นหลัก?",
+      "opts": [
+        "ให้ทารกเขียนอธิบายสิ่งที่มองเห็น",
+        "วัดความเร็วการเดินของทารกโดยไม่ใช้ภาพ",
+        "เปรียบเทียบเวลาหรือความสนใจที่ทารกมองสิ่งเร้าต่างกัน",
+        "ให้ทารกบอกชื่อสีอย่างเป็นคำพูด"
+      ],
+      "correct": 2,
+      "why": "Preferential looking ศึกษาความแตกต่างของเวลาการจ้องมองสิ่งเร้า เพื่ออนุมานการแยกแยะหรือความสนใจอย่างระมัดระวัง",
+      "error": "terminology"
+    },
+    {
+      "id": "A12",
+      "set": "A",
+      "topic": "Visual Illusions",
+      "level": "basic",
+      "source": "C",
+      "page": "74–76",
+      "q": "ภาพเส้นเฉียงถูกแถบแนวตั้งบังตรงกลาง แล้วปลายเส้นสองด้านดูไม่อยู่แนวเดียวกัน เรียกว่าอะไร?",
+      "opts": [
+        "Ponzo illusion",
+        "Poggendorff illusion",
+        "Moon illusion",
+        "Ebbinghaus illusion"
+      ],
+      "correct": 1,
+      "why": "Poggendorff illusion เกี่ยวกับความคลาดเคลื่อนของการรับรู้แนวเส้นที่ถูกขัดจังหวะหรือบัง",
+      "error": "terminology",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Poggendorff%20illusion.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poggendorff_illusion.svg",
+        "credit": "Fibonacci · Wikimedia Commons · CC BY-SA 3.0",
+        "alt": "ภาพประกอบสำหรับข้อ A12",
+        "license": "CC BY-SA 3.0",
+        "author": "Fibonacci",
+        "type": "external"
+      }
+    },
+    {
+      "id": "A13",
+      "set": "A",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "source": "D",
+      "page": "12–21",
+      "q": "ภูเขาไกลดูซีดและพร่ามัว ในขณะที่แสงเงาบนลูกบอลใกล้ตัวช่วยให้เห็นความนูน ข้อใดจับคู่ตัวชี้นำถูกต้อง?",
+      "opts": [
+        "ภูเขา: aerial perspective; ลูกบอล: shading and lighting",
+        "ภูเขา: binocular convergence; ลูกบอล: familiar size",
+        "ภูเขา: texture gradient; ลูกบอล: motion parallax",
+        "ภูเขา: interposition; ลูกบอล: convergence"
+      ],
+      "correct": 0,
+      "why": "Aerial perspective เกี่ยวกับความชัด/ความต่างระดับสีที่ลดลงตามระยะ ส่วน shading and lighting ช่วยรับรู้รูปทรงจากแสงและเงา",
+      "error": "confusion"
+    },
+    {
+      "id": "A14",
+      "set": "A",
+      "topic": "Color Perception",
+      "level": "basic",
+      "source": "S",
+      "page": "5",
+      "q": "ข้อใดคือการจับคู่คุณลักษณะของสีที่ถูกต้อง?",
+      "opts": [
+        "Hue คือความอิ่มตัว; brightness คือชนิดสี; saturation คือระยะห่าง",
+        "Hue คือปริมาณแสงสะท้อนเท่านั้น; saturation คือการมองเห็นสองตา",
+        "ทั้งสามคือคำศัพท์เรียกระยะลึกของวัตถุ",
+        "Hue คือชนิดสี; brightness คือความสว่างที่รับรู้; saturation คือความอิ่มตัวของสี"
+      ],
+      "correct": 3,
+      "why": "สามมิติของสีในการรับรู้ประกอบด้วย hue, brightness และ saturation ซึ่งอธิบายคนละคุณสมบัติ",
+      "error": "terminology"
+    },
+    {
+      "id": "A15",
+      "set": "A",
+      "topic": "Gestalt & Object Forms",
+      "level": "basic",
+      "source": "S",
+      "page": "2",
+      "q": "เรามองรูปวงกลมที่เส้นขอบเว้นช่องเล็ก ๆ เป็นวงกลมสมบูรณ์ หลัก Gestalt ใดสำคัญที่สุด?",
+      "opts": [
+        "Proximity",
+        "Common fate",
+        "Closure",
+        "Element connectedness"
+      ],
+      "correct": 2,
+      "why": "Closure คือแนวโน้มเติมเต็มข้อมูลที่ขาดเพื่อรับรู้รูปร่างปิดสมบูรณ์",
+      "error": "terminology",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gestalt%20closure.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gestalt_closure.svg",
+        "credit": "Kasufcgslfguhvsne · Wikimedia Commons · Public domain",
+        "alt": "ภาพประกอบสำหรับข้อ A15",
+        "license": "Public domain",
+        "author": "Kasufcgslfguhvsne",
+        "type": "external"
+      }
+    },
+    {
+      "id": "A16",
+      "set": "A",
+      "topic": "Perceptual Constancy",
+      "level": "basic",
+      "source": "C,S",
+      "page": "23–30,3",
+      "q": "Perspective size ต่างจาก object size อย่างไร?",
+      "opts": [
+        "Perspective size คือขนาดจริงเสมอ ส่วน object size คือแสงสะท้อน",
+        "Perspective size คือขนาดที่ปรากฏตามมุมมองและระยะ ขณะที่ object size คือขนาดจริง/ที่รับรู้ของวัตถุ",
+        "ทั้งสองหมายถึงขนาดภาพบนเรตินาที่เท่ากันเสมอ",
+        "Perspective size ใช้เฉพาะสี ส่วน object size ใช้เฉพาะรูปร่าง"
+      ],
+      "correct": 1,
+      "why": "การรับรู้ขนาดต้องแยกขนาดที่ปรากฏตามมุมมองจากขนาดวัตถุที่รับรู้ว่าคงเดิม",
+      "error": "confusion"
+    },
+    {
+      "id": "A17",
+      "set": "A",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "source": "C",
+      "page": "96–102",
+      "q": "ใน Ames room คนสองคนที่สูงใกล้เคียงกันยืนคนละมุมและดูต่างขนาดมาก เพราะผู้สังเกตเข้าใจผิดเรื่องใด?",
+      "opts": [
+        "รูปทรงและระยะจริงของห้องที่ถูกออกแบบให้บิดเบือนแต่ดูเหมือนห้องปกติ",
+        "สีผิวของบุคคลที่ต่างกัน",
+        "การขยับเลนส์เพื่อโฟกัสภาพใกล้",
+        "จำนวนเซลล์รับสีในจอประสาทตา"
+      ],
+      "correct": 0,
+      "why": "Ames room ใช้ห้องบิดรูปและมุมมองจำกัด ทำให้การอนุมานระยะและขนาดจากสมมติฐานว่าห้องเป็นสี่เหลี่ยมปกติผิดพลาด",
+      "error": "mechanism",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ames%20room%20forced%20perspective.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ames_room_forced_perspective.jpg",
+        "credit": "mosso · Wikimedia Commons · ดูสัญญาอนุญาตที่ Commons",
+        "alt": "ภาพประกอบสำหรับข้อ A17",
+        "license": "ดูสัญญาอนุญาตที่ Commons",
+        "author": "mosso",
+        "type": "external"
+      }
+    },
+    {
+      "id": "A18",
+      "set": "A",
+      "topic": "Perceiving Depth & Size",
+      "level": "basic",
+      "source": "D",
+      "page": "7–8",
+      "q": "Interposition บอกข้อมูลชนิดใดได้แน่ที่สุด?",
+      "opts": [
+        "ระยะจริงเป็นเมตรจากผู้มองไปวัตถุ",
+        "ความแตกต่างทางสีระหว่างดวงตาทั้งสอง",
+        "ขนาดจริงของวัตถุทุกชิ้น",
+        "ลำดับว่าอะไรอยู่ด้านหน้าหรือหลังโดยดูการบังกัน"
+      ],
+      "correct": 3,
+      "why": "การบังกันบอกความลึกเชิงสัมพัทธ์ ไม่ได้ให้ระยะจริงแบบตัวเลข",
+      "error": "terminology"
+    },
+    {
+      "id": "A19",
+      "set": "A",
+      "topic": "Social Perception",
+      "level": "analysis",
+      "source": "S",
+      "page": "9",
+      "q": "ผู้สัมภาษณ์เห็นผู้สมัครพูดคล่อง แล้วสรุปทันทีว่าเขาซื่อสัตย์ ขยัน และทำงานเป็นทีมเก่ง ทั้งที่ไม่มีหลักฐานอื่น สิ่งนี้ตรงกับอะไร?",
+      "opts": [
+        "Habituation เพราะตอบสนองสิ่งเร้าซ้ำลดลง",
+        "Binocular disparity เพราะภาพจากตาต่างกัน",
+        "Halo effect เพราะใช้ความประทับใจด้านเดียวไปประเมินหลายคุณลักษณะ",
+        "Common fate เพราะบุคคลเคลื่อนไหวร่วมกัน"
+      ],
+      "correct": 2,
+      "why": "Halo effect เป็นความเอนเอียงในการประเมินคนจากคุณสมบัติเด่นบางประการไปยังด้านอื่นที่ยังไม่มีหลักฐาน",
+      "error": "application"
+    },
+    {
+      "id": "A20",
+      "set": "A",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "source": "C",
+      "page": "37–43",
+      "q": "บานประตูรูปสี่เหลี่ยมผืนผ้าถูกเปิดออกจนภาพฉายบนตาเป็นทรงสี่เหลี่ยมแคบลง แต่เรายังรู้สึกว่าบานประตูมีรูปทรงเดิม ข้อใดถูก?",
+      "opts": [
+        "Lightness constancy",
+        "Shape constancy",
+        "Motion parallax",
+        "Negative afterimage"
+      ],
+      "correct": 1,
+      "why": "Shape constancy คือการรับรู้รูปร่างวัตถุคงเดิมแม้ภาพบนเรตินาเปลี่ยนตามมุมมอง",
+      "error": "application",
+      "image": {
+        "author": "Roger Shepard",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shape_constancy.gif",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shape%20constancy.gif",
+        "credit": "Roger Shepard · Wikimedia Commons · Public domain",
+        "type": "external",
+        "alt": "ภาพประกอบสำหรับข้อ A20"
+      }
+    },
+    {
+      "id": "A21",
+      "set": "A",
+      "topic": "Visual Illusions",
+      "level": "basic",
+      "source": "C,S",
+      "page": "112–114,4",
+      "q": "ตาม apparent distance theory เหตุใดดวงจันทร์ใกล้ขอบฟ้าจึงอาจดูใหญ่กว่าดวงจันทร์เหนือศีรษะ?",
+      "opts": [
+        "เพราะถูกประเมินว่าอยู่ไกลกว่า จึงตีความขนาดที่ปรากฏใหญ่ขึ้น",
+        "เพราะดวงจันทร์มีเส้นผ่านศูนย์กลางจริงใหญ่ขึ้นขณะตก",
+        "เพราะวัตถุใต้ขอบฟ้าทำให้จอประสาทตาขยาย",
+        "เพราะการเห็นสองตาเพิ่มแสงสะท้อนของดวงจันทร์"
+      ],
+      "correct": 0,
+      "why": "ทฤษฎีระยะปรากฏเสนอว่าดวงจันทร์ขอบฟ้าถูกรับรู้ว่าอยู่ไกลกว่า ส่งผลต่อการตีความขนาด ไม่ใช่การเปลี่ยนขนาดจริง",
+      "error": "mechanism"
+    },
+    {
+      "id": "A22",
+      "set": "A",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "source": "D",
+      "page": "39–41",
+      "q": "เมื่อคุณนั่งบนรถที่เคลื่อนที่ ต้นไม้ข้างทางดูเลื่อนผ่านเร็ว ส่วนภูเขาไกลดูเคลื่อนช้ามาก สิ่งนี้คืออะไร?",
+      "opts": [
+        "Binocular disparity: ตาทั้งสองอยู่ห่างกัน",
+        "Lightness constancy: วัตถุยังมีความสว่างคงที่",
+        "Closure: เติมส่วนขอบที่หายไป",
+        "Motion parallax: วัตถุใกล้เปลี่ยนตำแหน่งปรากฏเร็วกว่าเมื่อผู้สังเกตเคลื่อน"
+      ],
+      "correct": 3,
+      "why": "Motion parallax ใช้ความแตกต่างของการเคลื่อนที่สัมพัทธ์ในภาพขณะผู้สังเกตเคลื่อนไหวเพื่ออนุมานระยะ",
+      "error": "mechanism",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MotionParallax.gif",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MotionParallax.gif",
+        "credit": "Tarepan · Wikimedia Commons · CC BY-SA 4.0",
+        "alt": "ภาพประกอบสำหรับข้อ A22",
+        "license": "CC BY-SA 4.0",
+        "author": "Tarepan",
+        "type": "external"
+      }
+    },
+    {
+      "id": "A23",
+      "set": "A",
+      "topic": "Color Perception",
+      "level": "basic",
+      "source": "S",
+      "page": "6",
+      "q": "เมื่อฉายแสงสีแดงและแสงสีเขียวทับกันตามการผสมแสงแบบ additive จะได้สีใด?",
+      "opts": [
+        "ม่วงแดง",
+        "ฟ้าอมเขียว",
+        "เหลือง",
+        "ดำ"
+      ],
+      "correct": 2,
+      "why": "Additive color mixture ของแสง RGB: แดง+เขียว=เหลือง แดง+น้ำเงิน=ม่วงแดง เขียว+น้ำเงิน=ฟ้าอมเขียว",
+      "error": "terminology"
+    },
+    {
+      "id": "A24",
+      "set": "A",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "source": "S,C",
+      "page": "2,132–140",
+      "q": "ผู้ทดลองบอกกลุ่มหนึ่งล่วงหน้าว่าภาพกำกวมเกี่ยวกับสัตว์ชนิดหนึ่ง อีกกลุ่มได้รับบริบทของสัตว์อีกชนิด แล้วทั้งสองกลุ่มตีความภาพต่างกัน กลไกหลักคืออะไร?",
+      "opts": [
+        "Accommodation จากการเปลี่ยนรูปร่างเลนส์",
+        "Perceptual set หรือ top-down processing จากความคาดหวัง",
+        "Binocular convergence จากการหันตาเข้าด้านใน",
+        "Ebbinghaus effect จากวงล้อมรอบ"
+      ],
+      "correct": 1,
+      "why": "Perceptual set ทำให้ความคาดหวังและประสบการณ์มีอิทธิพลต่อการตีความข้อมูลประสาทสัมผัสที่กำกวม",
+      "error": "mechanism",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duck-Rabbit%20illusion.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duck-Rabbit_illusion.jpg",
+        "credit": "ผู้สร้างภาพดั้งเดิม (ภาพประวัติศาสตร์) · Wikimedia Commons · Public domain",
+        "alt": "ภาพประกอบสำหรับข้อ A24",
+        "license": "Public domain",
+        "author": "ผู้สร้างภาพดั้งเดิม (ภาพประวัติศาสตร์)",
+        "type": "external"
+      }
+    },
+    {
+      "id": "A25",
+      "set": "A",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "source": "C,S",
+      "page": "125–126,4",
+      "q": "หลังจากจ้องแนวเส้นเอียงอยู่นาน การรับรู้แนวของเส้นทดสอบที่ไม่ได้เปลี่ยนจริงอาจเอนผิดไปจากเดิมได้ ปรากฏการณ์นี้ควรอธิบายด้วยกลไกใดมากที่สุด?",
+      "opts": [
+        "Figural aftereffect จากการรับสิ่งเร้าก่อนหน้าที่เปลี่ยนการรับรู้สิ่งเร้าถัดมา",
+        "Size constancy ที่ทำให้ขนาดจริงเปลี่ยนทันที",
+        "Aerial perspective จากฝุ่นในอากาศ",
+        "Convergence จากตาทั้งสองลู่เข้า"
+      ],
+      "correct": 0,
+      "why": "Figural aftereffects คือผลตามหลังจากการมองรูปกระตุ้นก่อนหน้าซึ่งส่งอิทธิพลต่อภาพที่รับรู้ภายหลัง",
+      "error": "mechanism",
+      "image": {
+        "author": "Qcheng",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:TiltAfterEffect.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TiltAfterEffect.jpg",
+        "credit": "Qcheng · Wikimedia Commons · CC BY-SA 3.0",
+        "type": "external",
+        "alt": "ภาพประกอบสำหรับข้อ A25"
+      }
+    },
+    {
+      "id": "A26",
+      "set": "A",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "source": "C",
+      "page": "11–17",
+      "q": "กระดาษขาวถูกย้ายจากห้องสว่างไปที่ร่ม ทำให้แสงสะท้อนเข้าสู่ตาน้อยลงแต่ผู้สังเกตยังรับรู้ว่ากระดาษเป็นสีขาว กลไกใดเด่น?",
+      "opts": [
+        "Binocular disparity ที่คงระยะจากตาทั้งสอง",
+        "Motion parallax ที่คงรูปร่างเมื่อเคลื่อนไหว",
+        "Ponzo illusion ที่คงความยาวเส้น",
+        "Lightness constancy ที่คงการรับรู้คุณสมบัติพื้นผิวแม้ illumination เปลี่ยน"
+      ],
+      "correct": 3,
+      "why": "Lightness constancy ใช้ข้อมูลบริบทแสงและความสัมพันธ์ของความสว่างเพื่อรับรู้สีอ่อน–เข้มของพื้นผิวอย่างค่อนข้างคงที่",
+      "error": "mechanism"
+    },
+    {
+      "id": "A27",
+      "set": "A",
+      "topic": "Perceiving Depth & Size",
+      "level": "basic",
+      "source": "D",
+      "page": "12–16",
+      "q": "ยอดเขาที่อยู่ไกลปรากฏคอนทราสต์ต่ำและซีดลง เป็นตัวชี้นำความลึกประเภทใด?",
+      "opts": [
+        "Closure",
+        "Binocular convergence",
+        "Aerial perspective",
+        "Color afterimage"
+      ],
+      "correct": 2,
+      "why": "Aerial perspective คือระยะทางมีผลต่อความชัด คอนทราสต์และสีที่ปรากฏจากตัวกลางอากาศ",
+      "error": "terminology"
+    },
+    {
+      "id": "A28",
+      "set": "A",
+      "topic": "Perceptual Development",
+      "level": "analysis",
+      "source": "S",
+      "page": "8",
+      "q": "ทารกแรกมองของเล่นใหม่เป็นเวลานาน พอแสดงซ้ำหลายครั้งเวลามองลดลง แล้วเมื่อเปลี่ยนของเล่นเวลามองเพิ่มขึ้น ข้อสรุปใดระมัดระวังที่สุด?",
+      "opts": [
+        "พิสูจน์ว่าทารกพูดชื่อของเล่นได้",
+        "พฤติกรรมสอดคล้องกับ habituation ต่อของเดิมและการตอบสนองต่อสิ่งใหม่",
+        "พิสูจน์ว่าทารกเกลียดของเล่นชิ้นแรก",
+        "แปลว่าความสามารถการมองเห็นเสื่อมลงทุกครั้ง"
+      ],
+      "correct": 1,
+      "why": "Habituation คือการตอบสนองลดลงเมื่อพบสิ่งเร้าเดิมซ้ำ การกลับมาสนใจสิ่งใหม่ช่วยให้อนุมานการแยกแยะได้ แต่ไม่ใช่หลักฐานความเข้าใจทุกด้าน",
+      "error": "application"
+    },
+    {
+      "id": "A29",
+      "set": "A",
+      "topic": "Social Perception",
+      "level": "basic",
+      "source": "S",
+      "page": "8",
+      "q": "Social event perception ในสรุปเน้นองค์ประกอบใดในการเข้าใจเหตุการณ์?",
+      "opts": [
+        "การแบ่งเหตุการณ์ การตีความเจตนา และบริบท",
+        "การหักเหแสง การปรับเลนส์ และ disparity",
+        "การรับสีจาก cone ทั้งสามชนิดเท่านั้น",
+        "การประมาณขนาดจริงของดวงจันทร์"
+      ],
+      "correct": 0,
+      "why": "การรับรู้เหตุการณ์สังคมเกี่ยวข้องกับการจัดแบ่งเหตุการณ์ การอ่านความตั้งใจ และบริบท",
+      "error": "terminology"
+    },
+    {
+      "id": "A30",
+      "set": "A",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "source": "S",
+      "page": "6–7",
+      "q": "คนหนึ่งรับรู้สีแดง–เขียวผิดปกติแต่ยังมีระบบรับสีสามชนิดที่ทำงานต่างไปจากทั่วไป สอดคล้องกับข้อใดมากที่สุด?",
+      "opts": [
+        "Monochromatism คือมีระบบการเห็นสีทั้งสามสมบูรณ์",
+        "Binocular disparity คือการรับสีจากตาสองข้างต่างกัน",
+        "Negative afterimage คือภาวะบกพร่องสีถาวร",
+        "Anomalous trichromatism คือมีระบบสีสามชนิดแต่ความไวบางชนิดผิดปกติ"
+      ],
+      "correct": 3,
+      "why": "Anomalous trichromatism หมายถึงการมีระบบสามช่องรับสีแต่คุณสมบัติความไวสีบางช่องผิดไป ต่างจาก dichromatism ที่ขาดหน้าที่ช่องหนึ่ง",
+      "error": "confusion"
+    }
+  ],
+  "B": [
+    {
+      "id": "B01",
+      "set": "B",
+      "topic": "Perceiving Depth & Size",
+      "level": "basic",
+      "source": "D",
+      "page": "25–30",
+      "q": "เส้นขอบถนนที่ขนานกันในโลกจริงแต่ดูเหมือนลู่เข้าหาจุดเดียวในภาพ เป็นตัวชี้นำอะไร?",
+      "opts": [
+        "Linear perspective",
+        "Aerial perspective",
+        "Binocular disparity",
+        "Shape constancy"
+      ],
+      "correct": 0,
+      "why": "Linear perspective เป็นตัวชี้นำความลึกจากเส้นขนานที่ดูบรรจบในภาพเมื่อยื่นไปสู่ระยะไกล",
+      "error": "terminology"
+    },
+    {
+      "id": "B02",
+      "set": "B",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "source": "C",
+      "page": "74–76",
+      "q": "ถ้าวาดเส้นเฉียงเส้นหนึ่งผ่านด้านหลังแถบทึบตรงกลาง แล้วเส้นสองด้านที่มองเห็นดูไม่ต่อแนวกัน แม้จริง ๆ อยู่แนวเดียวกัน เรากำลังทดสอบอะไร?",
+      "opts": [
+        "Ponzo illusion เกี่ยวกับเส้นลู่ไปจุดหาย",
+        "Ebbinghaus illusion เกี่ยวกับวงล้อมรอบ",
+        "Moon illusion เกี่ยวกับดวงจันทร์ที่ขอบฟ้า",
+        "Poggendorff illusion เกี่ยวกับแนวต่อของเส้นที่ถูกบัง"
+      ],
+      "correct": 3,
+      "why": "Poggendorff illusion เป็นความผิดพลาดในการต่อแนวเส้นเฉียงที่ถูกขัดจังหวะ ต่างจากการเปรียบเทียบขนาดจากบริบท",
+      "error": "confusion",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Poggendorff-Illusion.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poggendorff-Illusion.png",
+        "credit": "เจ้าของต้นฉบับ Poggendorff-Illusion.png · Wikimedia Commons · CC BY-SA 2.0 DE",
+        "alt": "ภาพประกอบสำหรับข้อ B02",
+        "license": "CC BY-SA 2.0 DE",
+        "author": "เจ้าของต้นฉบับ Poggendorff-Illusion.png",
+        "type": "external"
+      }
+    },
+    {
+      "id": "B03",
+      "set": "B",
+      "topic": "Gestalt & Object Forms",
+      "level": "basic",
+      "source": "S",
+      "page": "2",
+      "q": "เราเห็นจุดสีเดียวกันกระจัดกระจายและมักจัดจุดที่มีสีเหมือนกันเป็นกลุ่ม ตรงกับกฎใด?",
+      "opts": [
+        "Closure",
+        "Common fate",
+        "Similarity",
+        "Pragnanz"
+      ],
+      "correct": 2,
+      "why": "Similarity คือการจัดกลุ่มตามคุณสมบัติที่คล้ายกัน เช่น สี รูปร่าง ขนาด หรือทิศทาง",
+      "error": "terminology"
+    },
+    {
+      "id": "B04",
+      "set": "B",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "source": "C",
+      "page": "44–47",
+      "q": "เมื่อผู้สังเกตเอียงศีรษะ แต่ยังรู้สึกว่าตู้ตั้งตรงตามแนวโลกจริงมากกว่าจะเอียงตามภาพที่เรตินา สิ่งนี้เกี่ยวกับอะไร?",
+      "opts": [
+        "Brightness constancy ที่ทำให้แสงไม่เปลี่ยน",
+        "Orientation constancy ที่ใช้ข้อมูลแนววางและบริบทเพื่อคงการรับรู้ทิศของวัตถุ",
+        "Linear perspective ที่ทำให้ตู้ดูไกล",
+        "Additive mixing ที่ทำให้สีของตู้เปลี่ยน"
+      ],
+      "correct": 1,
+      "why": "Orientation constancy คือแนวโน้มรับรู้การวางตัวของวัตถุคงที่แม้แนวของภาพที่ตกบนตาเปลี่ยนไป",
+      "error": "application"
+    },
+    {
+      "id": "B05",
+      "set": "B",
+      "topic": "Color Perception",
+      "level": "basic",
+      "source": "S",
+      "page": "7",
+      "q": "สีคู่ตรงข้ามตาม opponent-process theory ในสรุปมีคู่ใด?",
+      "opts": [
+        "แดง–เขียว และ น้ำเงิน–เหลือง",
+        "แดง–น้ำเงิน และ เขียว–เหลือง",
+        "ดำ–น้ำเงิน และ แดง–ขาว",
+        "เหลือง–เขียว และ แดง–ม่วง"
+      ],
+      "correct": 0,
+      "why": "Opponent-process theory อธิบายการเข้ารหัสสีเป็นคู่ตรงข้าม เช่น แดง–เขียว น้ำเงิน–เหลือง รวมทั้งช่องสว่าง–มืด",
+      "error": "terminology"
+    },
+    {
+      "id": "B06",
+      "set": "B",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "source": "D",
+      "page": "22–30",
+      "q": "พิจารณาภาพถ่ายถนนจริง: แนวถนนที่ลู่เข้าหากันและวัตถุบนพื้นดินที่ปรากฏสูงขึ้นในระนาบภาพเมื่อไกลออกไป สอดคล้องกับตัวชี้นำคู่ใดมากที่สุด?",
+      "opts": [
+        "Interposition อาศัยความอิ่มตัวสี ส่วน convergence อาศัยเส้นลู่เข้า",
+        "Accommodation อาศัยเงาตกทอด ส่วน similarity อาศัยขนาด",
+        "Aerial perspective อาศัยการลู่ของตาสองข้าง ส่วน motion parallax อาศัยเส้นโค้ง",
+        "Elevation อาศัยตำแหน่งสูงในระนาบภาพ ส่วน linear perspective อาศัยเส้นลู่เข้า"
+      ],
+      "correct": 3,
+      "why": "Elevation/height in picture plane และ linear perspective เป็นตัวชี้นำคนละแบบ แม้ช่วยประเมินระยะร่วมกันได้",
+      "error": "confusion",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Depth%20cues%201.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Depth_cues_1.png",
+        "author": "Brazzit",
+        "license": "CC BY-SA 3.0",
+        "credit": "Brazzit · Wikimedia Commons · CC BY-SA 3.0",
+        "alt": "ภาพถ่ายถนนที่มีหลายตัวชี้นำความลึก"
+      }
+    },
+    {
+      "id": "B07",
+      "set": "B",
+      "topic": "Visual Illusions",
+      "level": "basic",
+      "source": "C",
+      "page": "65–68",
+      "q": "เส้นตรงยาวเท่ากันสองเส้นมีหัวลูกศรชี้เข้าและชี้ออกต่างกัน ทำให้ความยาวดูไม่เท่ากัน เรียกว่าอะไร?",
+      "opts": [
+        "Poggendorff illusion",
+        "Ames room illusion",
+        "Müller-Lyer illusion",
+        "Ebbinghaus illusion"
+      ],
+      "correct": 2,
+      "why": "Müller-Lyer illusion คือการที่ทิศส่วนปลายเส้นส่งผลต่อการรับรู้ความยาว",
+      "error": "terminology",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCller-Lyer%20illusion%20-%20simple.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%BCller-Lyer_illusion_-_simple.svg",
+        "credit": "Phlsph7 · Wikimedia Commons · CC0 1.0",
+        "alt": "ภาพประกอบสำหรับข้อ B07",
+        "license": "CC0 1.0",
+        "author": "Phlsph7",
+        "type": "external"
+      }
+    },
+    {
+      "id": "B08",
+      "set": "B",
+      "topic": "Social Perception",
+      "level": "basic",
+      "source": "S",
+      "page": "9",
+      "q": "Halo effect หมายถึงอะไร?",
+      "opts": [
+        "การมองสิ่งเร้าซ้ำแล้วความสนใจลดลง",
+        "ใช้ความประทับใจเด่นเพียงด้านหนึ่งไปตัดสินคุณสมบัติด้านอื่น",
+        "การเปลี่ยนสีหลังจ้องสีเดิมนาน",
+        "การคงรูปร่างแม้มุมมองเปลี่ยน"
+      ],
+      "correct": 1,
+      "why": "Halo effect เป็นอคติในการรับรู้บุคคลเมื่อคุณลักษณะหนึ่งมีอิทธิพลต่อการตัดสินคุณลักษณะอื่น",
+      "error": "terminology"
+    },
+    {
+      "id": "B09",
+      "set": "B",
+      "topic": "Perceptual Constancy",
+      "level": "basic",
+      "source": "C",
+      "page": "37–43",
+      "q": "ข้อใดคือ Shape constancy?",
+      "opts": [
+        "รับรู้จานกลมว่ายังเป็นทรงกลมเมื่อมองเอียงจนภาพดูเป็นวงรี",
+        "รู้สึกว่าแสงไฟสว่างขึ้นเมื่อลดไฟห้อง",
+        "เห็นวัตถุไกลเคลื่อนช้ากว่าวัตถุใกล้",
+        "เห็นสีคู่ตรงข้ามหลังมองพื้นสีจัด"
+      ],
+      "correct": 0,
+      "why": "Shape constancy ช่วยคงการรับรู้รูปร่างของวัตถุแม้รูปภาพที่ตกบนตาเปลี่ยนตามมุมมอง",
+      "error": "terminology"
+    },
+    {
+      "id": "B10",
+      "set": "B",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "source": "S",
+      "page": "2",
+      "q": "พิจารณาภาพต้นฉบับที่มีจุดถูกแบ่งโดยขอบเขตของบริเวณ แม้บางจุดจากต่างบริเวณอาจอยู่ใกล้กัน หลักการใดอธิบายการจัดกลุ่มที่ภาพเน้นมากที่สุด?",
+      "opts": [
+        "ทั้งสองเป็น closure เท่านั้นเพราะมีเส้นประกอบ",
+        "ทั้งสองเป็น binocular disparity จากตาคนละข้าง",
+        "กรอบร่วมคือ motion parallax ส่วนเส้นเชื่อมคือ similarity",
+        "กรอบร่วมคือ common region ส่วนการเชื่อมโยงด้วยเส้นคือ element connectedness"
+      ],
+      "correct": 3,
+      "why": "Common region เน้นขอบเขตร่วมกัน ส่วน element connectedness เน้นการเชื่อมวัตถุด้วยองค์ประกอบที่เชื่อมต่อ",
+      "error": "confusion",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LawofcommonRegion.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LawofcommonRegion.jpg",
+        "credit": "BE12M · Wikimedia Commons · CC BY-SA 4.0",
+        "alt": "ภาพประกอบสำหรับข้อ B10",
+        "license": "CC BY-SA 4.0",
+        "author": "BE12M",
+        "type": "external"
+      }
+    },
+    {
+      "id": "B11",
+      "set": "B",
+      "topic": "Perceiving Depth & Size",
+      "level": "basic",
+      "source": "D",
+      "page": "44–45",
+      "q": "Familiar size ช่วยประมาณความลึกอย่างไร?",
+      "opts": [
+        "เปรียบเทียบสีระหว่างตาทั้งสองโดยตรง",
+        "ใช้แต่เงาโดยไม่อาศัยประสบการณ์",
+        "นำความรู้ขนาดปกติของวัตถุมาเปรียบเทียบกับขนาดที่ปรากฏ",
+        "ใช้ทิศที่วัตถุเคลื่อนไหวเพื่อบอกสี"
+      ],
+      "correct": 2,
+      "why": "Familiar size ใช้ประสบการณ์เรื่องขนาดจริงของวัตถุร่วมกับขนาดภาพเพื่อประเมินขนาดและระยะ",
+      "error": "terminology"
+    },
+    {
+      "id": "B12",
+      "set": "B",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "source": "C,S",
+      "page": "112–124,4",
+      "q": "หากดวงจันทร์เหนือขอบฟ้าดูใหญ่กว่าเมื่ออยู่สูงบนท้องฟ้า ทั้งที่ขนาดเชิงมุมเปลี่ยนเล็กน้อย ข้อใดระมัดระวังตามสไลด์ที่สุด?",
+      "opts": [
+        "เกิดจากดวงจันทร์ขยายขนาดจริงทุกเย็น",
+        "อาจอธิบายผ่านการรับรู้ระยะและบริบทของวัตถุบนขอบฟ้า ไม่ใช่ขนาดดวงจันทร์จริงที่เปลี่ยน",
+        "เกิดจากสีขอบฟ้าทำให้เลนส์ตาไม่ต้องปรับ",
+        "พิสูจน์ว่า Ebbinghaus เป็นเหตุเดียวในทุกสถานการณ์"
+      ],
+      "correct": 1,
+      "why": "Moon illusion มีข้อเสนอหลายทฤษฎี เช่น apparent distance และบริบทเชิงเปรียบเทียบ ไม่ควรเหมารวมคำอธิบายเดียวเป็นข้อสรุปทั้งหมด",
+      "error": "mechanism"
+    },
+    {
+      "id": "B13",
+      "set": "B",
+      "topic": "Perceptual Development",
+      "level": "analysis",
+      "source": "S",
+      "page": "8",
+      "q": "ในการทดลอง ทารกมองภาพหน้าคนหนึ่งนานกว่าอีกภาพ นักวิจัยควรตีความข้อมูลอย่างไร?",
+      "opts": [
+        "มีหลักฐานว่าทารกแสดงความสนใจต่างกันต่อภาพ แต่ยังสรุปความคิดหรือเหตุผลที่แน่ชัดไม่ได้",
+        "พิสูจน์ว่าทารกรู้ชื่อและอาชีพบุคคลได้",
+        "พิสูจน์ว่าภาพที่มองนานเป็นภาพที่ทารกชอบเสมอโดยไม่มีข้อจำกัด",
+        "พิสูจน์ว่าทารกไม่รับรู้ภาพที่มองสั้น"
+      ],
+      "correct": 0,
+      "why": "Preferential looking ให้หลักฐานจากรูปแบบเวลา/ความสนใจในการมอง แต่ต้องระวังการตีความความรู้สึกและความเข้าใจที่ไม่ได้วัดตรง",
+      "error": "application"
+    },
+    {
+      "id": "B14",
+      "set": "B",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "source": "S",
+      "page": "6",
+      "q": "เมื่อใช้แสงสีแดงกับสีเขียวทับกันบนจอได้สีเหลือง แต่เมื่อผสมเม็ดสีบนกระดาษสีจะมืดลง เหตุใด?",
+      "opts": [
+        "เม็ดสีทำให้ตาทั้งสองเห็นภาพเหลื่อมกันเสมอ",
+        "การผสมแสงต้องทำให้ทุกสีมืดลงเหมือนเม็ดสี",
+        "สารสีไม่เกี่ยวข้องกับแสงที่สะท้อนออกมา",
+        "การผสมแสงแบบ additive เพิ่มองค์ประกอบแสง ส่วนสารสีแบบ subtractive ดูดกลืนบางความยาวคลื่น"
+      ],
+      "correct": 3,
+      "why": "Additive color mixture และ subtractive color mixture ต่างกันที่การรวมแสงกับการดูดกลืนแสงโดยสารสี",
+      "error": "mechanism"
+    },
+    {
+      "id": "B15",
+      "set": "B",
+      "topic": "Visual Illusions",
+      "level": "basic",
+      "source": "C",
+      "page": "77–78",
+      "q": "เส้นตั้งและเส้นนอนที่ยาวจริงเท่ากัน แต่เส้นตั้งดูยาวกว่าเป็นภาพลวงตาประเภทใด?",
+      "opts": [
+        "Moon illusion",
+        "Ponzo illusion",
+        "Horizontal–Vertical illusion",
+        "Figural aftereffect"
+      ],
+      "correct": 2,
+      "why": "Horizontal–Vertical illusion เป็นความคลาดเคลื่อนในการเทียบความยาวของเส้นแนวตั้งกับแนวนอน",
+      "error": "terminology",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vertical%E2%80%93horizontal%20illusion.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vertical%E2%80%93horizontal_illusion.png",
+        "credit": "ผู้จัดทำภาพบน Commons · Wikimedia Commons · ดูสัญญาอนุญาตที่ Commons",
+        "alt": "ภาพประกอบสำหรับข้อ B15",
+        "license": "ดูสัญญาอนุญาตที่ Commons",
+        "author": "ผู้จัดทำภาพบน Commons",
+        "type": "external"
+      }
+    },
+    {
+      "id": "B16",
+      "set": "B",
+      "topic": "Perceiving Depth & Size",
+      "level": "basic",
+      "source": "D",
+      "page": "48–50",
+      "q": "เมื่อมองวัตถุที่เข้ามาใกล้หน้ามากขึ้น ตาทั้งสองมักเคลื่อนไหวอย่างไร?",
+      "opts": [
+        "หมุนออกด้านข้างมากขึ้นเสมอ",
+        "หมุนเข้าหากันมากขึ้น เป็น convergence",
+        "เปลี่ยนสีเลนส์เป็นสีดำ",
+        "หยุดใช้ข้อมูลจากตาข้างหนึ่งทันที"
+      ],
+      "correct": 1,
+      "why": "Convergence เป็น binocular cue ที่เกี่ยวกับการหันตาทั้งสองเข้าด้านในเพื่อเพ่งวัตถุใกล้",
+      "error": "terminology"
+    },
+    {
+      "id": "B17",
+      "set": "B",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "source": "C",
+      "page": "18–30",
+      "q": "เมื่อมองเพื่อนที่ยืนไกลผ่านช่องประตู ขนาดภาพบนเรตินาของเขาเล็กลง แต่เรายังประเมินความสูงได้ใกล้จริง ปัจจัยใดมีบทบาท?",
+      "opts": [
+        "Size constancy ที่ใช้ตัวชี้นำระยะร่วมกับภาพบนเรตินา",
+        "Lightness constancy จากการเปลี่ยนการรับสี",
+        "Closure เพราะเรามองเห็นเพื่อนได้ครบตัว",
+        "Additive color mixing จากสีเสื้อ"
+      ],
+      "correct": 0,
+      "why": "Size constancy เป็นการชดเชยผลของระยะต่อภาพบนเรตินาโดยใช้บริบทและตัวชี้นำระยะ",
+      "error": "mechanism"
+    },
+    {
+      "id": "B18",
+      "set": "B",
+      "topic": "Gestalt & Object Forms",
+      "level": "basic",
+      "source": "S",
+      "page": "1",
+      "q": "ภาพที่บางครั้งเห็นเป็นหน้าคนสองคน บางครั้งเห็นเป็นแจกัน เป็นลักษณะใด?",
+      "opts": [
+        "Trichromatic mixing เพราะมีสีสามชนิด",
+        "Motion parallax เพราะต้องขยับตัว",
+        "Aerial perspective เพราะสีซีด",
+        "Reversible figure–ground เพราะส่วนเด่นกับพื้นหลังสลับกันได้"
+      ],
+      "correct": 3,
+      "why": "Reversible figure–ground คือภาพที่สลับการตีความรูปเด่นและพื้นหลังได้",
+      "error": "terminology",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Two%20silhouette%20profile%20or%20a%20white%20vase.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_silhouette_profile_or_a_white_vase.svg",
+        "credit": "Ian Remsen · Wikimedia Commons · CC0 1.0",
+        "alt": "ภาพประกอบสำหรับข้อ B18",
+        "license": "CC0 1.0",
+        "author": "Ian Remsen",
+        "type": "external"
+      }
+    },
+    {
+      "id": "B19",
+      "set": "B",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "source": "D",
+      "page": "34–36,44–45",
+      "q": "ในภาพมีรูปเหรียญที่รู้ขนาดจริง กับก้อนหินที่ไม่รู้ขนาดจริง ทั้งสองปรากฏเล็กเท่ากัน ข้อใดถูก?",
+      "opts": [
+        "Relative size ทำให้รู้ระยะจริงของก้อนหินโดยไม่ต้องมีข้อมูลอื่น",
+        "Familiar size ใช้ได้ต่อเมื่อมีตาสองข้างเท่านั้น",
+        "Familiar size ช่วยประเมินระยะของเหรียญได้มากกว่า ขณะที่ relative size ต้องพึ่งเงื่อนไขเปรียบเทียบ",
+        "วัตถุทั้งสองต้องมีขนาดจริงเท่ากันเสมอ"
+      ],
+      "correct": 2,
+      "why": "Familiar size อาศัยความคุ้นเคยกับขนาดวัตถุ ส่วน relative size ใช้ความสัมพันธ์ของขนาดที่ปรากฏภายใต้ข้อสมมติที่เหมาะสม",
+      "error": "confusion"
+    },
+    {
+      "id": "B20",
+      "set": "B",
+      "topic": "Color Perception",
+      "level": "basic",
+      "source": "S",
+      "page": "7",
+      "q": "ข้อใดแยก dichromatism กับ anomalous trichromatism ได้เหมาะสม?",
+      "opts": [
+        "ทั้งสองหมายถึงการมองสีครบปกติเสมอ",
+        "Dichromatism ขาดระบบสีหนึ่งช่องทาง ส่วน anomalous trichromatism ยังมีสามช่องทางแต่ความไวบางช่องผิดปกติ",
+        "Dichromatism เกิดจากวัตถุเคลื่อนที่เร็วกว่าเท่านั้น",
+        "Anomalous trichromatism หมายถึงการรับภาพจากตาข้างเดียว"
+      ],
+      "correct": 1,
+      "why": "สรุปแยกภาวะมีการรับสีสองชนิดที่ทำหน้าที่ได้กับภาวะสามชนิดที่ความไวผิดปกติ",
+      "error": "terminology"
+    },
+    {
+      "id": "B21",
+      "set": "B",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "source": "C",
+      "page": "92–95",
+      "q": "จากภาพหน้าต่าง Ames ที่มีรูปทรงบิดเบี้ยวเป็นสี่เหลี่ยมคางหมู ถ้าหมุนวัตถุจริงแล้วผู้ดูรายงานว่าเหมือนแกว่งกลับทิศไปมา เหตุใดจึงเกิดการตีความผิด?",
+      "opts": [
+        "ประสบการณ์ว่าหน้าต่างควรเป็นสี่เหลี่ยมปกติส่งผลต่อการตีความมุมและการเคลื่อนไหว",
+        "เกิดจากเม็ดสีที่ผสมบนหน้าต่าง",
+        "เกิดจากทารกมี preferential looking มากกว่าผู้ใหญ่",
+        "เกิดจากขนาดจริงของหน้าต่างเปลี่ยนทุกครั้ง"
+      ],
+      "correct": 0,
+      "why": "Ames trapezoidal window แสดงอิทธิพลของความคุ้นเคยกับรูปทรงต่อการตีความภาพและการเคลื่อนไหว",
+      "error": "mechanism",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ames%20window.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ames_window.png",
+        "credit": "VanBuren · Wikimedia Commons · CC BY-SA 3.0",
+        "alt": "ภาพประกอบสำหรับข้อ B21",
+        "license": "CC BY-SA 3.0",
+        "author": "VanBuren",
+        "type": "external"
+      }
+    },
+    {
+      "id": "B22",
+      "set": "B",
+      "topic": "Perceptual Constancy",
+      "level": "basic",
+      "source": "C",
+      "page": "44–47",
+      "q": "Location constancy แตกต่างจาก orientation constancy โดยเน้นอะไร?",
+      "opts": [
+        "Location หมายถึงสี ส่วน orientation หมายถึงความสว่าง",
+        "Location เกิดจากการผสมแสง ส่วน orientation เกิดจากกลิ่น",
+        "สองคำนี้หมายถึงการรับรู้ความเข้มสีเท่านั้น",
+        "Location เน้นตำแหน่งของวัตถุ ส่วน orientation เน้นแนวหรือทิศที่วัตถุวางตัว"
+      ],
+      "correct": 3,
+      "why": "Location และ orientation เป็นการคงการรับรู้ด้านตำแหน่งกับแนววางตามลำดับ ไม่ใช่ลักษณะสี",
+      "error": "confusion"
+    },
+    {
+      "id": "B23",
+      "set": "B",
+      "topic": "Perceiving Depth & Size",
+      "level": "basic",
+      "source": "D",
+      "page": "31–33",
+      "q": "ถ้ากรวดบนพื้นปรากฏเป็นลวดลายละเอียดและอัดแน่นขึ้นไปทางขอบฟ้า ตัวชี้นำคืออะไร?",
+      "opts": [
+        "Binocular disparity",
+        "Halo effect",
+        "Texture gradient",
+        "Opponent process"
+      ],
+      "correct": 2,
+      "why": "Texture gradient คือการเปลี่ยนความหนาแน่นหรือความละเอียดลายพื้นผิวในภาพตามระยะ",
+      "error": "terminology",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Depth%20cues%201.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Depth_cues_1.png",
+        "author": "Brazzit",
+        "license": "CC BY-SA 3.0",
+        "credit": "Brazzit · Wikimedia Commons · CC BY-SA 3.0",
+        "alt": "ภาพถ่ายถนนที่มีหลายตัวชี้นำความลึก"
+      }
+    },
+    {
+      "id": "B24",
+      "set": "B",
+      "topic": "Social Perception",
+      "level": "analysis",
+      "source": "S",
+      "page": "8–9",
+      "q": "คนเห็นเพื่อนยกมือระหว่างการประชุมแล้วคิดว่าเพื่อนกำลังโหวต แต่เมื่อรู้ว่าเพื่อนเรียกคนเสิร์ฟจึงเปลี่ยนการตีความ สิ่งใดสำคัญที่สุด?",
+      "opts": [
+        "Binocular convergence ทำให้มือยาวขึ้น",
+        "Context ช่วยเปลี่ยนการอ่านเจตนาและความหมายของเหตุการณ์",
+        "Brightness constancy ทำให้สีมือเปลี่ยน",
+        "Shading ทำให้ไม่มีข้อมูลด้านสังคม"
+      ],
+      "correct": 1,
+      "why": "การรับรู้เหตุการณ์ทางสังคมอาศัยทั้งสิ่งที่สังเกตได้และบริบทในการอ่านเจตนา",
+      "error": "application"
+    },
+    {
+      "id": "B25",
+      "set": "B",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "source": "S",
+      "page": "2",
+      "q": "จากภาพตัวอย่าง Common Fate หากองค์ประกอบหลายตัวเคลื่อนที่ไปทิศเดียวกัน แม้มีสีต่างกัน กฎการจัดกลุ่มใดมีน้ำหนักมากที่สุด?",
+      "opts": [
+        "Common fate จากการเคลื่อนไหวทิศเดียวกัน",
+        "Similarity จากการมีสีเหมือนกันทุกตัว",
+        "Closure จากเส้นขอบที่ขาดไป",
+        "Aerial perspective จากความต่างคอนทราสต์"
+      ],
+      "correct": 0,
+      "why": "Common fate คือแนวโน้มรวมวัตถุที่มีการเคลื่อนที่สัมพันธ์กันเป็นกลุ่ม",
+      "error": "application",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Law%20of%20common%20fate%20gestalt%20hariadhi.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Law_of_common_fate_gestalt_hariadhi.svg",
+        "author": "Hariadhi",
+        "license": "CC BY-SA 4.0",
+        "credit": "Hariadhi · Wikimedia Commons · CC BY-SA 4.0",
+        "alt": "ภาพสาธิตการจัดกลุ่มด้วย Common Fate"
+      }
+    },
+    {
+      "id": "B26",
+      "set": "B",
+      "topic": "Visual Illusions",
+      "level": "basic",
+      "source": "C,S",
+      "page": "127–150,4",
+      "q": "ข้อใดอธิบายความต่างระหว่าง ambiguous figure และ impossible figure ได้ดีที่สุด?",
+      "opts": [
+        "Ambiguous figure ต้องมีสีแดงเสมอ ส่วน impossible figure ต้องสีเขียว",
+        "ทั้งคู่เป็นภาพสองตาที่เกิดจากการเคลื่อนไหวเท่านั้น",
+        "Impossible figure เป็นภาพถ่ายที่ไม่มีรูปร่าง",
+        "Ambiguous figure ตีความสลับได้หลายแบบ ส่วน impossible figure มีโครงสร้างเชิงพื้นที่ที่ขัดแย้งกัน"
+      ],
+      "correct": 3,
+      "why": "ภาพกำกวมเปิดให้ตีความได้มากกว่าหนึ่งแบบ ส่วน impossible figure ขัดแย้งในการประกอบเป็นวัตถุสามมิติที่สอดคล้องกัน",
+      "error": "confusion",
+      "image": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Necker_cube_and_impossible_cube.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Necker_cube_and_impossible_cube.svg",
+        "credit": "Original: Maksim · Vector: Boivie · Wikimedia Commons · CC BY-SA 3.0",
+        "alt": "ภาพประกอบสำหรับข้อ B26",
+        "license": "CC BY-SA 3.0",
+        "author": "Original: Maksim · Vector: Boivie",
+        "type": "external"
+      }
+    },
+    {
+      "id": "B27",
+      "set": "B",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "source": "S",
+      "page": "7",
+      "q": "ผู้ตรวจพบว่าคนหนึ่งไม่มีการทำงานของระบบรับสี M แต่ยังอาศัยระบบ L และ S ได้ ตามคำในสรุปควรเรียกว่าอะไร?",
+      "opts": [
+        "Protanomaly (anomalous trichromatism)",
+        "Tritanomaly (anomalous trichromatism)",
+        "Deuteranopia (dichromatism)",
+        "Monochromatism"
+      ],
+      "correct": 2,
+      "why": "Deuteranopia เป็น dichromatism ที่เกี่ยวกับการขาดการทำงานของช่องสี M ส่วน protanopia เกี่ยวกับ L และ tritanopia เกี่ยวกับ S",
+      "error": "confusion"
+    },
+    {
+      "id": "B28",
+      "set": "B",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "source": "C",
+      "page": "4–17",
+      "q": "โต๊ะไม้เดิมอยู่ใต้หลอดไฟสว่างขึ้นจนดูสว่างจ้า แต่เรายังรับรู้ว่าเป็นไม้สีเดิม ข้อใดแยกสิ่งที่เปลี่ยนกับสิ่งที่คงได้ดี?",
+      "opts": [
+        "Object size ต้องเปลี่ยนเพราะแสงแรงขึ้น",
+        "Brightness ที่ปรากฏอาจเปลี่ยน แต่ lightness ของพื้นผิวที่รับรู้ยังค่อนข้างคงเดิม",
+        "Binocular disparity หายไปจึงเห็นสีเดิม",
+        "Shape constancy หมายถึงไม้เปลี่ยนชนิด"
+      ],
+      "correct": 1,
+      "why": "การรับรู้ lightness ของพื้นผิวอาจคงเดิมภายใต้แสงที่ต่างกัน แม้ความสว่างปรากฏ/ความเข้มของสัญญาณแสงเปลี่ยน",
+      "error": "confusion"
+    },
+    {
+      "id": "B29",
+      "set": "B",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "source": "D",
+      "page": "39–52",
+      "q": "ผู้ทดลองหลับตาข้างหนึ่งแล้วเคลื่อนศีรษะเพื่อดูระยะของเสาไฟ เขายังใช้ตัวชี้นำใดได้ และสูญเสียข้อมูลใดชั่วคราว?",
+      "opts": [
+        "ยังใช้ motion parallax ได้ แต่ไม่มี binocular disparity จากตาสองข้าง",
+        "ยังใช้ binocular disparity จากตาทั้งสองได้ครบ",
+        "เสีย motion parallax แต่เพิ่ม convergence สองตา",
+        "ใช้ไม่ได้ทั้ง shading และ interposition อีกต่อไป"
+      ],
+      "correct": 0,
+      "why": "Motion parallax เป็น monocular cue จากการเคลื่อนที่สัมพัทธ์ ส่วน binocular disparity ต้องรับภาพจากตาสองข้าง",
+      "error": "confusion"
+    },
+    {
+      "id": "B30",
+      "set": "B",
+      "topic": "Perceptual Development",
+      "level": "basic",
+      "source": "S",
+      "page": "8",
+      "q": "Habituation คืออะไร?",
+      "opts": [
+        "การรับรู้ขนาดจริงของวัตถุที่คงเดิม",
+        "การเห็นสีตรงข้ามหลังจ้องสีนาน",
+        "การรวมกลุ่มสิ่งที่อยู่ในกรอบเดียวกัน",
+        "การตอบสนองหรือความสนใจลดลงเมื่อพบสิ่งเร้าเดิมซ้ำ"
+      ],
+      "correct": 3,
+      "why": "Habituation คือแนวโน้มการตอบสนองต่อสิ่งเร้าที่นำเสนอซ้ำลดลง ไม่ได้หมายความว่าสิ่งเร้าหายไป",
+      "error": "terminology"
+    }
+  ],
+  "C": [
+    {
+      "id": "C4-01",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "การระบุเจ้าของเส้นขอบ แทนการถามชื่อ Figure–Ground",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Gestalt / Figure–Ground — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ผู้ดูเห็นพื้นที่สีเข้มขอบเว้าแนบกับพื้นที่สีอ่อนขอบนูน ส่วนหนึ่งของเส้นขอบร่วมกันเป็นเส้นเดียว เมื่อผู้วิจัยเพิ่มพื้นผิวลวงว่า “พื้นที่เข้มอยู่ด้านหน้า” ผู้ดูรายงานว่ารูปร่างของพื้นที่อ่อนเปลี่ยนไป ทั้งที่พิกเซลเส้นขอบเดิมไม่เปลี่ยน ข้อใดเป็นคำอธิบายที่ตรงหลักฐานที่สุด?",
+      "opts": [
+        "การตัดสินว่าเส้นขอบเป็นของวัตถุด้านใดเปลี่ยน จึงเปลี่ยนรูปร่างที่จัดให้เป็นวัตถุโดยไม่ต้องเปลี่ยนเส้นจริง",
+        "เส้นขอบบนเรตินาต้องย้ายตำแหน่งก่อน มิฉะนั้นไม่มีทางที่การรับรู้รูปร่างจะเปลี่ยนได้",
+        "พื้นผิวด้านหน้าทำให้ค่าความสะท้อนของพื้นผิวด้านหลังเปลี่ยน จึงเห็นขอบวัตถุใหม่",
+        "การเปลี่ยนแปลงนี้บ่งชี้ว่าไม่มีการแบ่งรูปกับพื้น เพราะผู้ดูรายงานว่ามีรูปร่างต่างกัน"
+      ],
+      "correct": 0,
+      "why": "การจัดว่าเส้นขอบเป็นของรูปใด (border ownership) เป็นส่วนของการจัดระเบียบการรับรู้ ไม่ได้เป็นการเปลี่ยนข้อมูลทางกายภาพของเส้น",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-02",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ความต่อเนื่องของวัตถุหลังถูกบัง ไม่ใช่ชื่อกฎ Gestalt",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วนการจัดองค์ประกอบของรูป / Continuation — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ในภาพยนตร์ ลูกบอลเคลื่อนจากซ้ายเข้าไปหลังเสา และปรากฏทางขวาหลังระยะเวลาที่สอดคล้องกับความเร็วเดิม ผู้ดูรายงานว่าเป็นลูกเดียวกัน ถ้าต้องแยกสมมติฐาน “วัตถุคงอยู่หลังการบัง” จาก “เห็นวัตถุใหม่ทุกครั้ง” ข้อมูลใดสำคัญที่สุด?",
+      "opts": [
+        "ความเหมือนของสีระหว่างการปรากฏทั้งสองครั้งอาจเป็นตัวแปรสำคัญ เพราะยังไม่ได้ควบคุมการเปลี่ยนความสว่าง",
+        "ความสอดคล้องของเวลา ตำแหน่ง และเส้นทางก่อน–หลังการถูกบัง เมื่อเทียบกับเงื่อนไขที่ทำให้เส้นทางไม่ต่อเนื่อง",
+        "การตอบว่าเป็นลูกเดิมอาจมาจากการคาดเดา จึงต้องทดสอบเงื่อนไขความเร็วไม่สอดคล้องกันก่อนตัดสิน",
+        "การติดตามต่อเนื่องอาจเกิดจากเส้นทางก่อนหายตัวเท่านั้น จึงไม่จำเป็นต้องพิจารณาเวลาที่ลูกปรากฏอีกครั้ง"
+      ],
+      "correct": 1,
+      "why": "การรับรู้ความต่อเนื่องเชิงวัตถุไม่เท่ากับการรู้ว่ามีสิ่งเร้าประเภทเดิมปรากฏซ้ำ และควรทดสอบด้วยความสอดคล้องเชิงเวลา/เส้นทาง",
+      "error": "application",
+      "images": []
+    },
+    {
+      "id": "C4-03",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "การจัดลำดับส่วน–ทั้งหมด (Gestalt whole–part)",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Gestalt / Holistic grouping — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ภาพหนึ่งสร้างจากส่วนโค้งชนิดเดียวกัน 8 ชิ้น ผู้ทดลองกลุ่มหนึ่งดูแต่ละชิ้นแยกกัน อีกกลุ่มเห็นชิ้นทั้งหมดจัดเป็นโครงรูปอย่างสมมาตร กลุ่มหลังระบุ “รูปร่างภาพรวม” ได้เร็วกว่า แม้ระบุชิ้นเดี่ยวได้พอ ๆ กัน ข้อใดเป็นข้อสรุปที่มีขอบเขตเหมาะสมที่สุด?",
+      "opts": [
+        "กลุ่มหลังมีความสามารถมองเห็นความละเอียดของส่วนโค้งสูงกว่าเพราะตอบภาพรวมเร็วกว่า",
+        "เมื่อระบุชิ้นส่วนได้เท่ากัน ความเร็วที่ต่างจึงต้องเกิดจากความจำคำศัพท์ของกลุ่มหลังเท่านั้น",
+        "การจัดความสัมพันธ์ระหว่างส่วนอาจช่วยการเห็นโครงสร้างระดับทั้งหมด ซึ่งไม่ลดรูปเหลือการจำส่วนเดี่ยว ๆ",
+        "ความสมมาตรเปลี่ยนความยาวจริงของทุกส่วนโค้ง จึงเป็นหลักฐานว่าระบบรับภาพแก้เรขาคณิตของสิ่งเร้า"
+      ],
+      "correct": 2,
+      "why": "ผลแยกการประมวลผลเชิงความสัมพันธ์ของส่วนประกอบออกจากประสิทธิภาพในการเห็นแต่ละส่วน",
+      "error": "confusion",
+      "images": []
+    },
+    {
+      "id": "C4-04",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "การแยกการจัดกลุ่มเชิงภาพออกจากการมองเห็นส่วนประกอบในภาพอำพราง",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Gestalt / Good Continuation และการแบ่งรูป — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ในภาพพราง วัตถุเป้าหมายสร้างจากเส้นขอบบางที่มีคอนทราสต์คงเดิม แต่พื้นหลังเวอร์ชันหนึ่งใช้เส้นลายต่อกับเส้นเป้าหมายจนมองรูปเป้าหมายได้ยาก อีกเวอร์ชันตัดเส้นลายที่ต่อเนื่องออก โดยไม่แก้เส้นเป้าหมาย ถ้าคะแนนระบุรูปร่างเป้าหมายดีขึ้นในเวอร์ชันที่สอง ข้อใดอธิบายผลได้เหมาะสมที่สุด?",
+      "opts": [
+        "ผลยืนยันว่าวัตถุเป้าหมายถูกวาดใหม่ในเวอร์ชันที่สอง แม้พิกเซลบริเวณเป้าหมายเหมือนเดิมทุกค่า",
+        "ผลทั้งหมดเกิดจากจำนวนเส้นรบกวนที่น้อยลงเท่านั้น จึงไม่ควรทดสอบความต่อเนื่องของเส้นเมื่อควบคุมจำนวนเส้นได้",
+        "ผลนี้แสดงว่าผู้ดูจำรูปร่างเป้าหมายได้ดีขึ้นจากการเรียนรู้คำศัพท์ เพราะมีเส้นพื้นหลังเปลี่ยน",
+        "ผลสนับสนุนอิทธิพลของการจัดโครงรูปจากความต่อเนื่องของเส้นร่วมกับบริบท แต่ต้องควบคุมความหนาแน่นเส้นเพื่อแยกกลไก"
+      ],
+      "correct": 3,
+      "why": "การต่อเนื่องของเส้นพื้นหลังอาจดึงการจัดกลุ่มออกจากเป้าหมาย แต่ต้องแยกจากปริมาณ clutter ที่ลดลง ไม่ใช่ใช้ผลเป็นข้อสรุปเฉพาะทันที",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-05",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ความคงทนของกลุ่มย่อยเมื่อองค์ประกอบถูกปิดบางส่วน",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วนการรวมรูปร่าง/องค์ประกอบ — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "แผ่นภาพมีวัตถุเล็ก 6 ชิ้นจัดเป็นสองกลุ่มที่มีโครงรูปต่างกัน ต่อมาวางแถบทึบปิดบางส่วนของวัตถุทุกชิ้นโดยจำนวนชิ้นที่มองเห็นเท่าเดิม หากผู้ดูยังจัดเป็นสองกลุ่มเดิม สิ่งใดเป็นหลักฐานเพิ่มเติมที่เฉพาะต่อ “โครงสร้างกลุ่ม” มากกว่าการจำจำนวน?",
+      "opts": [
+        "เมื่อสลับตำแหน่งชิ้นส่วนโดยรักษาจำนวนส่วนที่เห็นไว้ การแบ่งกลุ่มเปลี่ยนตามความสัมพันธ์ของชิ้นส่วน",
+        "ผลยังอาจเกิดจากความสว่างของส่วนที่โผล่จากแถบทึบ จึงควรสลับลักษณะแถบก่อนอธิบายการจัดกลุ่ม",
+        "หากจำนวนที่เห็นคงเดิม การแบ่งกลุ่มที่ต่างอาจเกิดจากการสลับความใกล้ขององค์ประกอบ ไม่ใช่โครงสร้างกลุ่ม",
+        "ผลที่เกิดขึ้นอาจเป็นผลของความคุ้นเคยกับภาพเดิม ควรสลับลำดับและใช้ภาพใหม่ก่อนอนุมาน"
+      ],
+      "correct": 0,
+      "why": "จัดตำแหน่งใหม่โดยควบคุมจำนวนตรวจว่าระบบรับรู้ใช้ความสัมพันธ์เชิงโครงสร้าง ไม่ใช่เพียงจำนวนที่จำได้",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-06",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "การใช้ระยะฉายภาพติดตา (Emmert’s law)",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 31–32",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "หลังจ้องวงกลมสว่างจนเกิด afterimage ผู้ดูจ้องจุดเดิมแล้วฉายภาพติดตาลงบนผนังห่าง 1 เมตรกับ 3 เมตร โดยถือว่าขนาดภาพติดตาบนเรตินาไม่เปลี่ยน ข้อใดเป็นคำทำนายที่สอดคล้องกับสิ่งที่สไลด์สาธิต?",
+      "opts": [
+        "ภาพติดตาบนผนังใกล้อาจดูใหญ่กว่า เพราะผู้ดูเห็นพื้นผิวใกล้จึงประเมินขนาดสิ่งที่ฉายใหญ่ขึ้น",
+        "ภาพติดตาบนผนังไกลอาจดูใหญ่กว่า เพราะระบบการรับรู้ใช้ระยะพื้นผิวที่คาดว่าภาพอยู่ประกอบการประเมินขนาด",
+        "หากขนาดภาพติดตาบนเรตินาคงเดิม ขนาดที่ดูต่างจะเกิดได้ต่อเมื่อความสว่างของผนังสองระยะต่างกัน",
+        "ภาพติดตาอาจดูใหญ่ขึ้นในระยะไกล แต่ผลนี้ไม่เกี่ยวข้องกับการประเมินระยะทาง เพราะภาพติดตาถูกสร้างก่อนมองผนัง"
+      ],
+      "correct": 1,
+      "why": "แม้ retinal afterimage ขนาดคงเดิม การรับรู้ขนาดเมื่อฉายลงบนพื้นที่ไกลขึ้นสัมพันธ์กับ perceived distance",
+      "error": "application",
+      "images": []
+    },
+    {
+      "id": "C4-07",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "แยก location constancy ออกจากการมองวัตถุเคลื่อน",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 44–47; 10.Depth สไลด์ 38–41",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "นักศึกษานั่งรถไฟมองเสาไฟที่อยู่กับที่ผ่านหน้าต่าง แล้วหมุนศีรษะตามขบวน ภาพเสาบนเรตินาเคลื่อนไปอย่างต่อเนื่อง หากนักศึกษายังตัดสินว่าเสาไม่ได้เคลื่อนในโลกจริง ข้อมูลลักษณะใดจำเป็นต่อคำอธิบายมากที่สุด?",
+      "opts": [
+        "ขนาดภาพของเสาเพียงค่าเดียว เพราะถ้าขนาดไม่เปลี่ยนเสาต้องหยุดนิ่ง",
+        "ข้อมูลสีของเสาเท่านั้น เพราะแยกการเคลื่อนของภาพกับวัตถุได้จากความคงที่ของสี",
+        "ความสัมพันธ์ระหว่างการเคลื่อนที่ของผู้สังเกต/ฉาก กับการเปลี่ยนตำแหน่งภาพเสาที่ตา",
+        "การเปลี่ยนความโค้งของเลนส์ตาเท่านั้น เพราะบอกทิศทางการเคลื่อนของเสาในโลกจริง"
+      ],
+      "correct": 2,
+      "why": "การระบุตำแหน่งของวัตถุในโลกต้องแยกการเปลี่ยนภาพที่เกิดจากผู้สังเกตเคลื่อนออกจากวัตถุเคลื่อน",
+      "error": "confusion",
+      "images": []
+    },
+    {
+      "id": "C4-08",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ข้อจำกัดของการรวมภาพตาสองข้างเมื่อภาพต่างขนาด (Aniseikonia)",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 88–90",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "เมื่อให้ภาพซ้ายและขวาที่สื่อวัตถุเดียวกัน แต่เพิ่มขนาดเชิงมุมเฉพาะภาพข้างซ้าย 12% ผู้ทดลองบางคนรายงานว่าภาพรวมกันยากและระยะดูผิดธรรมชาติ ข้อใดเป็นการตีความที่เหมาะสมที่สุด?",
+      "opts": [
+        "ความต่างขนาดข้ามตาสามารถรบกวนการรวมภาพ และทำให้การใช้ข้อมูลความลึกจากสองตาผิดปกติได้",
+        "ความต่างขนาดจำเป็นต้องทำให้เกิดภาวะตาบอดสี เพราะ cone ซ้ายถูกขยายสัญญาณมากกว่า cone ขวา",
+        "เมื่อภาพสองตาต่างขนาด ระบบการมองเห็นจะลบภาพข้างหนึ่งเสมอโดยไม่เหลือข้อมูลความลึกใด ๆ",
+        "ข้อมูลนี้พิสูจน์ว่าความลึกทั้งหมดที่คนทั่วไปเห็นมาจากการรู้ขนาดวัตถุ ไม่ใช่ binocular information"
+      ],
+      "correct": 0,
+      "why": "สไลด์กล่าวถึง Aniseikonia ว่าภาพจากสองตาต่างกันด้านขนาด/รูปร่างอาจทำให้การรวมภาพลำบาก",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-09",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ความคงที่ของรูปร่างกับวัตถุไม่คุ้นเคย",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 36–43",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ผู้ดูเห็นโมเดลแผ่น 3 มิติที่มีรูปร่างไม่คุ้นเคย หมุนไปหลายมุมโดยเห็นขอบพื้นที่เชื่อมต่ออยู่ตลอด เมื่อเปรียบเทียบกับการเห็นเพียงเงาดำจากมุมเดียว ทำไมการตัดสิน “รูปเดิมหรือรูปใหม่” จึงคาดว่าจะดีขึ้นในเงื่อนไขแรก?",
+      "opts": [
+        "เพราะการหมุนทำให้ physical shape เปลี่ยนทีละน้อย จึงมีภาพหลายรูปให้จดจำเป็นตัวใหม่",
+        "เพราะการเห็นเงาดำตัด information เกี่ยวกับรูปร่างฉายทิ้งทั้งหมด แม้ยังเห็นเค้าโครงอยู่",
+        "เพราะแสงที่สะท้อนต้องมีความเข้มคงที่เท่านั้น ข้อมูลสามมิติจากการหมุนจึงไม่จำเป็น",
+        "เพราะข้อมูลการเปลี่ยนมุมมองต่อเนื่องช่วยเชื่อม retinal projections ที่ต่างกันให้เป็นวัตถุเดียว"
+      ],
+      "correct": 3,
+      "why": "การมีข้อมูลต่อเนื่องเกี่ยวกับมุมมองช่วยรักษา shape constancy แม้ไม่รู้จักวัตถุนั้นมาก่อน",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-10",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ปัญหาผกผันของความสว่าง: illuminance กับ reflectance",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 5–17",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "จุดภาพ P กับ Q ส่งแสงถึงตา 16 หน่วยเท่ากัน ผู้วิจัยทราบภายหลังว่า P ถูกส่องด้วยแสง 80 หน่วย ส่วน Q ถูกส่องด้วยแสง 20 หน่วย ภายใต้แบบจำลองแสงสะท้อน ≈ illumination × reflectance และไม่มีปัจจัยอื่น ข้อใดเป็นจริง?",
+      "opts": [
+        "Reflectance ของ P และ Q เท่ากัน เพราะจำนวนแสงที่ตารับเท่ากัน",
+        "P มี reflectance ประมาณ 0.20 ส่วน Q ประมาณ 0.80 แม้แสงถึงตาเท่ากัน",
+        "Q มี brightness ต่ำกว่า P เพราะแสงที่ส่องตัวอย่าง Q ต่ำกว่าเสมอ",
+        "P มี reflectance ประมาณ 5.0 จึงสะท้อนแสงได้มากกว่าหนึ่งร้อยเปอร์เซ็นต์"
+      ],
+      "correct": 1,
+      "why": "เมื่อรู้ illuminance จึงย้อนหา reflectance ได้ P=16/80=0.20 และ Q=16/20=0.80: อินพุตเรตินาเท่ากันไม่ได้ยืนยันพื้นผิวเหมือนกัน",
+      "error": "application",
+      "images": []
+    },
+    {
+      "id": "C4-11",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ความคงที่ที่ล้มเหลวเมื่อคิวเชิงโครงสร้างขัดกัน",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 18–30; 10.Depth สไลด์ 6–35",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ผู้ดูเห็นวัตถุขนาดเท่ากันสองชิ้นในภาพถ่ายหนึ่ง ขอบพื้นบอกว่าชิ้น A อยู่ไกลกว่า แต่เงาวัตถุและการบังกันกลับบอกว่าชิ้น A อยู่ด้านหน้าชิ้น B ในอีกเงื่อนไขหนึ่งทดลองลบเงาและข้อมูลบังออก ข้อใดประเมินผลได้เหมาะสมที่สุด?",
+      "opts": [
+        "เพราะสัญญาณทุกชนิดเห็นได้ด้วยตาข้างเดียว การรับรู้ระยะจึงต้องให้ผลเหมือนกันทั้งสองเงื่อนไข",
+        "เมื่อลบเงาและข้อมูลบัง ระบบการมองเห็นจะไม่สามารถประมาณขนาดวัตถุได้อีกเลยในทุกกรณี",
+        "การลด cue ที่ขัดกันอาจเปลี่ยนคำตัดสินระยะ/ขนาดได้ แต่ต้องทดสอบจริงว่าผู้ดูให้น้ำหนัก cue ใด",
+        "การที่ cue ขัดแย้งกันยืนยันว่าระบบรับรู้จะเลือก cue ที่ให้ retinal size ใหญ่กว่าโดยอัตโนมัติ"
+      ],
+      "correct": 2,
+      "why": "ความคงที่ขึ้นกับข้อมูลบริบทซึ่งอาจขัดกัน ความเด่นของ cue ไม่ควรทำนายแบบแน่นอนหากไม่ได้ทดสอบ",
+      "error": "confusion",
+      "images": []
+    },
+    {
+      "id": "C4-12",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Jastrow: เปรียบเทียบขอบโค้งแทนถามชื่อภาพ",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 52–56",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ดูภาพต้นฉบับ Jastrow สองชิ้นที่มีขนาดเท่ากันทุกประการ หากต้องตรวจว่าการจัดเรียงขอบโค้งทำให้ประเมินขนาดคลาดเคลื่อนหรือไม่ เงื่อนไขควบคุมใดตรงที่สุด?",
+      "opts": [
+        "วางชิ้นทั้งสองห่างกันมากขึ้นเพื่อดูว่าความต่างจะยังเกิดหรือไม่ โดยไม่เปลี่ยนทิศของขอบโค้ง",
+        "เพิ่มการหมุนชิ้นทั้งสองเท่ากัน เพื่อดูว่าผลยังอยู่แม้มุมมองโดยรวมเปลี่ยน แต่ไม่ได้ซ้อนขอบเทียบกัน",
+        "หมุนและวางรูปทั้งสองซ้อนทับแนวขอบเพื่อให้เทียบรูปทรงได้ แล้วเทียบกับการวางเรียงเดิม",
+        "ให้ผู้ดูเปรียบเทียบความยาวตามปลายของชิ้นส่วนแทนการดูขอบโค้ง แล้วถือเป็นการวัดขนาดจริงโดยตรง"
+      ],
+      "correct": 2,
+      "why": "การตรวจโดยซ้อนรูปช่วยแยกขนาดจริงที่เท่ากันออกจากการเปรียบเทียบเชิงบริบทจากขอบโค้ง",
+      "error": "mechanism",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jastrow_illusion.svg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jastrow_illusion.svg",
+          "credit": "Fibonacci / Mabit1 · Wikimedia Commons · CC BY-SA 3.0",
+          "caption": "ภาพลวงตา Jastrow ต้นฉบับที่มีอยู่จริง",
+          "alt": "ภาพลวงตา Jastrow ต้นฉบับที่มีอยู่จริง",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jastrow_illusion.svg"
+        }
+      ]
+    },
+    {
+      "id": "C4-13",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Zöllner: แยก orientation ของเส้นหลักจากเส้นตัด",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 57–60",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ในภาพ Zöllner เส้นยาวคู่หนึ่งที่ขนานกันดูเหมือนเอียงเข้าหรือออกจากกัน ถ้าทำการทดลองใหม่โดยคงตำแหน่งและมุมของเส้นยาวไว้ แต่หมุนเฉพาะเส้นสั้นที่ตัดผ่านให้เป็นอีกทิศ ข้อใดเป็นผลที่ “หากพบ” จะสนับสนุนบทบาทของเส้นตัดได้ตรงที่สุด?",
+      "opts": [
+        "การประมาณมุมระหว่างเส้นยาวเปลี่ยนตามมุมของเส้นสั้น ทั้งที่เส้นยาวทางกายภาพไม่เปลี่ยน",
+        "ถ้าผู้ดูยังเห็นเส้นเอียงเมื่อหมุนเส้นสั้น แสดงว่าเส้นสั้นเป็นตัวแปรจำเป็นในทุกกรณี โดยไม่ต้องมีเงื่อนไขตัดเส้นสั้นออก",
+        "ถ้าคำตอบมุมเปลี่ยนตามเส้นสั้น อาจเกิดจากการเปลี่ยนมุมของเส้นยาวจริง จึงไม่จำเป็นต้องยืนยันขนาดพิกเซล",
+        "ถ้ามุมของเส้นยาวที่รายงานเท่าเดิมในทุกมุมเส้นตัด จะยืนยันว่าเส้นสั้นกระตุ้นการเอียงที่รับรู้เท่าเดิม"
+      ],
+      "correct": 0,
+      "why": "ถ้าคงเส้นหลักแล้วผลเอียงที่รายงานเปลี่ยนตามแนวเส้นตัด จึงเป็นหลักฐานเฉพาะบทบาทของบริบทเส้นตัด",
+      "error": "mechanism",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Zollner_illusion.svg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zollner_illusion.svg",
+          "credit": "Fibonacci · Wikimedia Commons · CC BY-SA 3.0",
+          "caption": "เส้นคู่ขนานในภาพ Zöllner",
+          "alt": "เส้นคู่ขนานในภาพ Zöllner",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zollner_illusion.svg"
+        }
+      ]
+    },
+    {
+      "id": "C4-14",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Hering: ทดสอบความหนาแน่นของพื้นหลัง โดยใช้ภาพจริงสองแบบ",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 63–64",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "เปรียบเทียบ Hering Illusion รุ่นเส้นพื้นหลังหนาแน่นกับรุ่นเส้นพื้นหลังเบาบาง โดยเส้นตรงหลักยังขนานกันทั้งสองภาพ ข้อใดเป็นรูปแบบผลที่ชี้ความสำคัญของเส้นพื้นหลังได้มากที่สุด?",
+      "opts": [
+        "คะแนนความโค้งลวงอาจคงเดิมหากผู้ดูยังมี prior เกี่ยวกับการกระจายของเส้น แม้ความหนาแน่นพื้นหลังลดลง",
+        "ความโค้งลวงควรเปลี่ยนเมื่อเส้นพื้นหลังหนาแน่น แต่ผลเพียงนี้ยังต้องวัดขนาดความโค้งจริงของเส้นหลักด้วย",
+        "คะแนนความโค้งลวงที่ต่างระหว่างภาพไม่ช่วยชี้บทบาทพื้นหลัง หากผู้ทดลองไม่สลับภาพกับผู้เข้าทดลองรายเดียวกัน",
+        "คะแนนประเมินความโค้งลวงเพิ่มตามความหนาแน่นของเส้นพื้นหลัง แม้ความโค้งจริงเป็นศูนย์"
+      ],
+      "correct": 3,
+      "why": "ความสัมพันธ์ระหว่างความหนาแน่นของบริบทกับความโค้งที่รับรู้ แยกภาพลวงตาออกจากเรขาคณิตจริง",
+      "error": "application",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hering_illusion_high_density.svg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hering_illusion_high_density.svg",
+          "credit": "Mabit1 · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "ภาพ Hering แบบพื้นหลังหนาแน่น",
+          "alt": "ภาพ Hering แบบพื้นหลังหนาแน่น",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hering_illusion_high_density.svg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hering_illusion_low_density.svg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hering_illusion_low_density.svg",
+          "credit": "Mabit1 · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "ภาพ Hering แบบพื้นหลังเบาบาง",
+          "alt": "ภาพ Hering แบบพื้นหลังเบาบาง",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hering_illusion_low_density.svg"
+        }
+      ]
+    },
+    {
+      "id": "C4-15",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Café Wall: บทบาทของการเหลื่อมแถวกับแนวเส้น",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 81–82",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ภาพ Café Wall แสดงเส้นปูนคั่นอิฐที่เป็นแนวนอนจริง แต่ผู้ดูเห็นบางช่วงเอียง ถ้าต้องทดสอบว่าการเหลื่อมของแถวอิฐมีบทบาทต่อความเอียงที่รับรู้ นักวิจัยควรจัดคู่ภาพอย่างไร?",
+      "opts": [
+        "คงลายเหลื่อมไว้เท่าเดิม แล้วเปลี่ยนความเข้มเส้นปูนเพียงอย่างเดียวระหว่างสองเงื่อนไข",
+        "รักษาความสว่างและระยะของเส้นปูน แต่จัดแถวอิฐให้ตรงกันเทียบกับแถวเหลื่อม",
+        "เปลี่ยนความเหลื่อมแถวพร้อมความกว้างอิฐ เพื่อทำให้ความต่างเชิงโครงสร้างระหว่างภาพชัดเจนขึ้น",
+        "คงการเรียงอิฐไว้แล้วขยายภาพทั้งหมดให้ต่างขนาด จากนั้นวัดการเห็นเส้นปูนเอียง"
+      ],
+      "correct": 1,
+      "why": "การเปลี่ยนการเหลื่อมเพียงมิติเดียวโดยตรึงลักษณะอื่นช่วยทดสอบตัวแปรเชิงโครงสร้างของ Café Wall",
+      "error": "confusion",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cafe_Wall_Illusion.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cafe_Wall_Illusion.png",
+          "credit": "Henohenomoheji · Wikimedia Commons · CC BY-SA 3.0 / GFDL",
+          "caption": "ภาพต้นฉบับ Café Wall แสดงลายอิฐ",
+          "alt": "ภาพต้นฉบับ Café Wall แสดงลายอิฐ",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cafe_Wall_Illusion.png"
+        }
+      ]
+    },
+    {
+      "id": "C4-16",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Scintillating vs Hermann Grid: ความต่างของข้อมูลภาพ",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 85–86",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ภาพสองแบบแสดงตารางขาว–ดำ: แบบแรกเป็นช่องเส้นตัดโล่ง แบบสองเพิ่มจุดสีขาวที่ตำแหน่งตัด ผู้ดูบางคนรายงานจุดมืดวูบวาบในแบบสอง ถ้าจะวัดความต่างระหว่างปรากฏการณ์ ไม่ใช่เดาจากชื่อ ควรเปรียบเทียบอะไร?",
+      "opts": [
+        "ระดับความคุ้นเคยกับภาพอาจส่งผลต่อรายงาน แต่ไม่ได้ตรวจความต่างของตำแหน่งที่เห็นจุดมืดโดยตรง",
+        "เวลาในการตรึงสายตาเป็นตัวแปรที่ควรเก็บ แต่ต้องสัมพันธ์กับตำแหน่งที่เกิดปรากฏการณ์ด้วย ไม่ใช่ใช้เวลาเพียงอย่างเดียว",
+        "ความถี่และตำแหน่งที่รายงานการเกิดจุดมืด ภายใต้การควบคุมขนาดภาพ แสง และการจ้องมอง",
+        "จำนวนบริเวณที่ผู้ดูคาดว่าเกิดจุดมืดอาจเปลี่ยนตามการคาดเดา จึงควรใช้การรายงานความมั่นใจเพียงตัวเดียว"
+      ],
+      "correct": 2,
+      "why": "การรายงานตำแหน่งและความถี่ของความรู้สึกที่ไม่อยู่ในภาพจริงช่วยทดสอบความแตกต่างของภาพทั้งสองแบบ",
+      "error": "mechanism",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hermann_grid_illusion.svg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hermann_grid_illusion.svg",
+          "credit": "Bnmbnmbnm · Wikimedia Commons · CC0",
+          "caption": "ภาพต้นฉบับ Hermann Grid",
+          "alt": "ภาพต้นฉบับ Hermann Grid",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_grid_illusion.svg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Scintillating_grid_illusion.svg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scintillating_grid_illusion.svg",
+          "credit": "Ranjithsiji · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "ภาพต้นฉบับ Scintillating Grid",
+          "alt": "ภาพต้นฉบับ Scintillating Grid",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scintillating_grid_illusion.svg"
+        }
+      ]
+    },
+    {
+      "id": "C4-17",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Munker–White: ความสว่างของแถบเดิมเมื่อบริบทเปลี่ยน",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 84; สรุป S&P ส่วน Color Perception",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ดูภาพ Munker–White ที่แถบเป้าหมายสีเขียวทั้งสองมีรหัสสีเดียวกันแต่เห็นสว่างต่างกัน ข้อใดเป็นขั้นตอนที่ตรวจได้ตรงที่สุดว่าความต่างเกิดจากบริบท ไม่ใช่สีเป้าหมายที่ต่างตั้งแต่ไฟล์?",
+      "opts": [
+        "การเทียบชื่อสีของผู้ดูสองเงื่อนไขช่วยตรวจว่าตั้งใจมองแถบเดียวกัน แต่ไม่ควรเปลี่ยนลายเส้นในภาพ",
+        "การตรวจค่าพิกเซลยืนยันความเท่ากันทางกายภาพได้ แต่ไม่อาจบอกว่าความต่างที่รับรู้เกิดจากบริบทหรือการปรับตัวก่อนหน้า",
+        "การแก้ค่าพิกเซลแถบให้ผู้ดูเห็นเหมือนกันเป็นวิธีวัดความต่างของสีที่รับรู้ แต่ทำให้เป้าหมายไม่คงเดิม",
+        "ตรวจค่าพิกเซลเฉพาะแถบเป้าหมายและเทียบการรับรู้เมื่อแถบถูกบังบริบทลายเส้น"
+      ],
+      "correct": 3,
+      "why": "แยกข้อมูลกายภาพของสีเป้าหมายออกจากบริบทด้วยการตรวจพิกเซลและตัดบริบทที่รบกวน",
+      "error": "mechanism",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Munker_White_Illusion.svg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Munker_White_Illusion.svg",
+          "credit": "Mabit1 · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "ภาพ Munker–White ต้นฉบับจาก Wikimedia Commons",
+          "alt": "ภาพ Munker–White ต้นฉบับจาก Wikimedia Commons",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Munker_White_Illusion.svg"
+        }
+      ]
+    },
+    {
+      "id": "C4-18",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Fraser/twisted cord: ความเป็นเกลียวลวงกับเรขาคณิตวงกลม",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 79–80",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ดูภาพ Fraser spiral ซึ่งผู้ดูอาจเห็นเป็นเกลียว แม้องค์ประกอบแนววงหลักถูกสร้างเป็นวงร่วมศูนย์หลายวง หากจะตรวจว่าความรู้สึกเป็นเกลียวไม่ได้เกิดจากการมีเส้นเกลียวจริง จะทำอย่างไร?",
+      "opts": [
+        "ตามแนวเส้นวงเดียวโดยไม่เปลี่ยนวง แล้วตรวจว่าครบรอบกลับจุดเริ่มแทนการเลื่อนไปยังรัศมีใหม่",
+        "ถ้าเห็นวงปิดเมื่อค่อย ๆ ซูมภาพออก แสดงว่ารูปที่เห็นเป็นวง แต่ไม่จำเป็นต้องตรวจความต่อเนื่องของเส้นจริง",
+        "การเปลี่ยนรูปแบบการเรียงแถบสลับสีแล้วผู้ดูเห็นเป็นวง จะสนับสนุนว่ารูปเดิมเป็นเกลียวเชิงเรขาคณิต",
+        "การวัดระยะจากจุดกึ่งกลางเพียงจุดเดียวอาจบอกว่าเส้นเป็นวง แต่ไม่จำเป็นต้องตามแนวเส้นจนจบหนึ่งรอบ"
+      ],
+      "correct": 0,
+      "why": "ลักษณะวงปิดหรือรัศมีที่เลื่อนไปเมื่อเดินตามเส้นเป็นการตรวจทางเรขาคณิตแยกจากการรับรู้ลวง",
+      "error": "application",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Fraser_spiral_illusion.svg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fraser_spiral_illusion.svg",
+          "credit": "Trent Steel · Wikimedia Commons · CC0 / Public Domain",
+          "caption": "ภาพ Fraser spiral ที่เผยแพร่บน Wikimedia Commons",
+          "alt": "ภาพ Fraser spiral ที่เผยแพร่บน Wikimedia Commons",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fraser_spiral_illusion.svg"
+        }
+      ]
+    },
+    {
+      "id": "C4-19",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "การเทียบภาพลวงตา 2 ประเภท: ตำแหน่งและมุม ไม่ใช่จำชื่อ",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 57–60,74–75",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "นักวิจัยมีภาพ 2 แบบ: แบบ X แสดงเส้นเฉียงสองท่อนที่ถูกแถบตรงกลางบัง และดูไม่ตรงแนวกัน; แบบ Y แสดงเส้นยาวขนานที่มีเส้นสั้นเอียงตัด ทำให้ดูไม่ขนาน ถ้าแยกตัวแปรตามให้ตรงกับข้อผิดพลาดหลัก ควรวัดอะไร?",
+      "opts": [
+        "วัดการเลื่อนตำแหน่งจุดปลายที่เห็นใน X และความยาวที่ดูเปลี่ยนใน Y เพราะทั้งคู่เป็นการบิดเบี้ยวของเรขาคณิต",
+        "X วัดตำแหน่งที่คิดว่าเส้นต่อกัน; Y วัดมุม/ความขนานที่ผู้ดูประมาณ",
+        "วัดองศาความเอียงที่รับรู้ใน X และตำแหน่งที่คาดว่าเส้นตัดต่อเนื่องใน Y โดยใช้วิธีตอบเดียวกัน",
+        "ให้รายงานว่าเส้นดูขาดตอนในภาพใด แล้วใช้คำตอบแบบใช่/ไม่ใช่เป็นตัวแปรเดียวของทั้งสองภาพ"
+      ],
+      "correct": 1,
+      "why": "Poggendorff เน้นการต่อแนว/ตำแหน่ง ส่วน Zöllner เน้นการตัดสินแนว/การเอียง เลือก DV ต่างกัน",
+      "error": "confusion",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Poggendorff_illusion.svg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poggendorff_illusion.svg",
+          "credit": "Fibonacci · Wikimedia Commons · CC BY-SA 3.0",
+          "caption": "ภาพ Poggendorff ต้นฉบับ",
+          "alt": "ภาพ Poggendorff ต้นฉบับ",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Poggendorff_illusion.svg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Zollner_illusion.svg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zollner_illusion.svg",
+          "credit": "Fibonacci · Wikimedia Commons · CC BY-SA 3.0",
+          "caption": "ภาพ Zöllner ต้นฉบับ",
+          "alt": "ภาพ Zöllner ต้นฉบับ",
+          "fallbackUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Zollner_illusion.svg"
+        }
+      ]
+    },
+    {
+      "id": "C4-20",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ผลของคำอธิบายเชิงทฤษฎี: ผลที่จำแนกสมมติฐานไม่ได้",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 102–109",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "นักศึกษาสองคนโต้แย้งสาเหตุ Horizontal–Vertical Illusion: คนหนึ่งอ้าง Visual Field Theory อีกคนอ้าง Angle of Regard Theory ถ้าพบเพียงว่า “เส้นตั้งดูยาวกว่าเส้นนอน” ข้อใดเป็นข้อสรุปที่เข้มงวดที่สุด?",
+      "opts": [
+        "การเห็นเส้นตั้งยาวกว่าให้น้ำหนัก Visual Field Theory มากกว่า เพราะรูปร่างลานสายตาเป็นวงรี แต่ยังไม่ได้ทดสอบตำแหน่งเส้น",
+        "การเห็นเส้นตั้งยาวกว่าให้น้ำหนัก Angle of Regard Theory มากกว่า เพราะทฤษฎีอ้างมุมมอง แต่ยังไม่ได้ปรับมุมจริง",
+        "ผลพื้นฐานนี้อาจอธิบายได้โดยทั้งสองทฤษฎี จึงควรสรุปว่าทฤษฎีทั้งสองเหมือนกันและไม่ต้องแยกอีก",
+        "ผลอย่างเดียวแยกทฤษฎีไม่ได้ ต้องหาสภาวะที่สองทฤษฎีทำนายต่างกันแล้วทดลอง"
+      ],
+      "correct": 3,
+      "why": "คำอธิบายต่างทฤษฎีอาจทำนายผลพื้นฐานเดียวกัน การจำแนกทฤษฎีต้องมีการทดลองที่ให้คำทำนายต่าง",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-21",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "เงื่อนไขที่ทำให้ภาพลวงตาไม่ใช่ข้อบกพร่องของการวัด",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 48–60",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ในการทดลองรูปแบบ Zöllner คนหนึ่งบอกว่าแนวเส้นบนหน้าจอทำมุม 0° แต่ผู้ทดลองรายงานว่าเอียง 5° นักวิจัยอีกคนระบุว่า 5° นี้พิสูจน์ว่าจอภาพผลิตพิกเซลผิด ข้อใดเป็นการตรวจที่เหมาะสมกว่า?",
+      "opts": [
+        "ตรวจเรขาคณิตเส้นในไฟล์/หน้าจอแยกจากการรายงานมุมที่รับรู้ แล้วเปรียบเทียบกับเงื่อนไขไม่ใส่เส้นตัด",
+        "ให้ผู้ดูประเมินเส้นเอียงโดยวัดตัวกระตุ้นจริงเพียงครั้งเดียว เพราะการตรวจไฟล์ไม่ได้แยกความคลาดเคลื่อนของจอ",
+        "วัดเฉพาะค่าเฉลี่ยความเอียงที่ผู้ดูรายงาน แล้วใช้เป็นค่าการเอียงจริงบนจอหากมีผู้ดูมากเพียงพอ",
+        "ทดสอบภาพเดิมในจอใหม่โดยไม่ตรวจมุมเส้น จึงระบุได้ว่าความคลาดเคลื่อนเดิมมาจากระบบรับรู้เสมอ"
+      ],
+      "correct": 0,
+      "why": "ต้องแยกความต่างระหว่าง physical stimulus กับ perceptual response ก่อนกล่าวโทษอุปกรณ์",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-22",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ความสัมพันธ์รูป–พื้นในภาพที่มีสีลวง ไม่ใช่ปัญหาขนาดวัตถุ",
+      "source": "C",
+      "sourceDetail": "9.Perceptual Constancy สไลด์ 83–84",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ภาพลายสีของ Munker ทำให้แถบเป้าหมายเดียวกันดูต่างความสว่าง นักวิจัยเปลี่ยน “สีพื้นหลังอย่างเดียว” แต่ไม่เปลี่ยนสีแถบเป้าหมาย แล้วผู้ดูรายงานความต่างน้อยลง ข้อใดบอกข้อจำกัดของข้อมูลนี้ได้เหมาะสมที่สุด?",
+      "opts": [
+        "หากรายงานความต่างลดลงเมื่อเปลี่ยนพื้นหลัง อาจเป็นหลักฐานว่าค่าสีเป้าหมายที่เห็นไม่ได้ถูกควบคุมให้คงที่จริง",
+        "ผลบ่งชี้ว่าบริบทเชิงสี/แสงมีบทบาท แต่ยังไม่บอกกลไกระดับประสาทเพียงชุดเดียวที่จำเป็นต้องรับผิดชอบ",
+        "ผลอาจเกิดจากการปรับตัวของสีเป้าหมายก่อนหน้า จึงควรทำให้ผู้ดูจ้องแถบเดิมนานต่างกันก่อนทดสอบบริบท",
+        "ถ้าการรับรู้เปลี่ยนตามบริบท ควรสรุปว่าเกิดจากกระบวนการแบบเดียวกับ lightness constancy เพียงกลไกเดียว"
+      ],
+      "correct": 1,
+      "why": "ลดความต่างที่รับรู้เมื่อแก้บริบทเป็นหลักฐานระดับการรับรู้ ไม่ใช่ข้อพิสูจน์กลไกประสาทจำเพาะ",
+      "error": "application",
+      "images": []
+    },
+    {
+      "id": "C4-23",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ทิศของ motion parallax เทียบกับจุดที่ตรึงสายตา",
+      "source": "D",
+      "sourceDetail": "10.Perceiving Depth and Size สไลด์ 38–41",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "นักศึกษาปิดตาข้างหนึ่ง ตรึงสายตาที่เสา B ห่าง 3 เมตร แล้วขยับศีรษะไปทางขวา เสา A อยู่ห่าง 1 เมตร และเสา C ห่าง 8 เมตร ถ้าโลกภายนอกไม่เคลื่อน ข้อใดคาดการณ์ทิศการเลื่อนภาพสัมพัทธ์ต่อ B ในสนามภาพได้ถูกต้องที่สุด?",
+      "opts": [
+        "A เลื่อนไปขวาและ C เลื่อนไปซ้าย เมื่อเทียบกับตำแหน่ง B",
+        "A และ C เลื่อนไปซ้ายทั้งหมด เพราะการขยับศีรษะเปลี่ยนเรตินาในทิศเดียว",
+        "A และ C ไม่เลื่อนในภาพเลย เพราะการตรึง B ทำให้ retinal flow หายไป",
+        "A เลื่อนไปซ้าย ส่วน C เลื่อนไปขวา เมื่อเทียบกับ B ที่ตรึงไว้"
+      ],
+      "correct": 3,
+      "why": "ตามสไลด์ เมื่อขยับหัวขวาและ fixate กลาง ภาพวัตถุใกล้กว่าเลื่อนตรงข้ามหัว ส่วนไกลกว่าเลื่อนตามหัว",
+      "error": "confusion",
+      "images": []
+    },
+    {
+      "id": "C4-24",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Interposition ให้ partial order ไม่ใช่ระยะทางเป็นเมตร",
+      "source": "D",
+      "sourceDetail": "10.Perceiving Depth and Size สไลด์ 7–11",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ในภาพมีวัตถุทึบ A บังขอบ B, B บังขอบ C และ C บังขอบ D อย่างต่อเนื่องโดยสมมติว่าสิ่งเหล่านี้เป็นวัตถุแยกกัน ไม่มีส่วนโค้งพาดย้อนกลับ ข้อใดคือข้อสรุปที่ดีที่สุดจากการบังเพียงอย่างเดียว?",
+      "opts": [
+        "ลำดับ A ใกล้กว่า B ใกล้กว่า C ใกล้กว่า D ได้ แต่ยังไม่มีระยะห่างเป็นเมตร",
+        "A ต้องอยู่ห่างจาก B เท่ากับระยะ B–C เพราะภาพมีการบังต่อกัน",
+        "วัตถุ D ต้องเล็กที่สุดจริง เพราะถูกบังมากที่สุดในภาพเดียวกัน",
+        "แค่เห็นการบังวัตถุหนึ่งครั้งก็ยืนยันได้ว่า A อยู่ห่างสายตาไม่เกินหนึ่งเมตร"
+      ],
+      "correct": 0,
+      "why": "การบังให้ลำดับเชิงสัมพัทธ์ของความลึก (partial/ordinal order) ไม่ใช่ metric distance",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-25",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "เงื่อนไขของ height-in-picture-plane แทนท่องว่าของสูงอยู่ไกล",
+      "source": "D",
+      "sourceDetail": "10.Perceiving Depth and Size สไลด์ 22–24",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ภาพ A แสดงคนสองคนยืนบนพื้นราบเดียวกัน จุดเท้าของคนหนึ่งอยู่สูงขึ้นในระนาบภาพ ส่วนภาพ B แสดงคนยืนบนทางลาดชันและบันไดในอาคาร ข้อใดเป็นคำเตือนที่เหมาะสมเมื่อใช้ตำแหน่งแนวตั้งบนภาพเพื่ออนุมานระยะ?",
+      "opts": [
+        "height-in-picture-plane ใช้ได้เมื่อระนาบพื้นทำมุมกับแนวสายตาที่รู้แน่นอน แต่ควรใช้ได้กับบันไดเช่นกันหากวัดจำนวนขั้น",
+        "ตำแหน่งแนวตั้งอาจให้ระยะตรง ๆ แม้ไม่รู้พื้นราบ หากความสูงของคนทั้งสองเท่ากัน",
+        "การเชื่อมจุดในภาพกับระยะต้องอาศัยข้อสมมติเรื่องระนาบพื้น/แนวขอบฟ้า จึงใช้กับบันไดตรง ๆ ไม่ได้",
+        "ตำแหน่งของวัตถุเทียบแนวขอบฟ้าใช้ไม่ได้กับภาพวาด แต่ใช้ได้กับภาพถ่ายที่มี vanishing point"
+      ],
+      "correct": 2,
+      "why": "height in picture plane มีความหมายภายใต้โครงสร้างฉาก เช่น พื้นราบ ไม่ใช่กฎสำหรับทุกตำแหน่งบนภาพ",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-26",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Aerial perspective: แยกหมอกจาก distance",
+      "source": "D",
+      "sourceDetail": "10.Perceiving Depth and Size สไลด์ 12–16",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ในภาพภูเขาใกล้และไกลมีคอนทราสต์ต่างกัน แต่วันหนึ่งเกิดหมอกเฉพาะหุบเขาใกล้ ทำให้ภูเขาใกล้ซีดกว่าภูเขาไกลที่เห็นผ่านอากาศใส ข้อใดถูกต้องที่สุดเกี่ยวกับการอนุมานระยะจากความซีด?",
+      "opts": [
+        "ภูเขาที่ซีดอาจไกลกว่าจริง แม้หมอกใกล้จะมากกว่า เพราะ cue ทางบรรยากาศยังมีผลต่อผู้ดู",
+        "ความซีดมีที่มาจากการกระเจิง/บรรยากาศและปัจจัยแสง จึงไม่อาจใช้ระบุลำดับระยะอย่างเด็ดขาดเมื่อสภาพอากาศต่างกัน",
+        "ถ้ามีหมอกใกล้มากกว่าไกล การรับรู้ระยะน่าจะสับสน แต่ยังสรุปได้ว่ามันเกิดจาก binocular disparity เป็นหลัก",
+        "การกระเจิงแสงสัมพันธ์กับคอนทราสต์ในภาพ ขณะที่สีพื้นผิวจริงไม่เกี่ยวกับความซีดที่เห็น"
+      ],
+      "correct": 1,
+      "why": "Aerial perspective เป็นสัญญาณเชิงความน่าจะเป็นภายใต้สภาพบรรยากาศ ไม่ใช่ตัววัดระยะเด็ดขาด",
+      "error": "application",
+      "images": []
+    },
+    {
+      "id": "C4-27",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Shading cue ภายใต้สมมติฐานทิศแสง",
+      "source": "D",
+      "sourceDetail": "10.Perceiving Depth and Size สไลด์ 17–21",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "กล้องถ่ายภาพปุ่มนูนที่มีไล่แสงจากด้านบนลงล่าง หากหมุนภาพทั้งแผ่น 180 องศาโดยไม่เปลี่ยนลำดับความสว่างของแต่ละพิกเซล ผู้ดูบางคนกลับตีความเป็นรอยบุ๋ม เหตุผลใดเหมาะสมที่สุด?",
+      "opts": [
+        "ผู้ดูเปลี่ยนคำตอบเพราะ retinal illumination ของทุกพิกเซลเปลี่ยนไปเมื่อภาพถูกหมุน แม้ค่าจากไฟล์คงเดิม",
+        "ถ้าผู้ดูมี prior เกี่ยวกับแสงบน การหมุนภาพอาจเปลี่ยนคำตอบ แต่ต้องทำให้ส่องแสงจริงจากด้านล่างจึงจะทดสอบได้",
+        "การตีความนูน/เว้าเป็นผลของ binocular disparity เป็นหลัก จึงไม่ควรเกิดเมื่อดูภาพถ่ายผ่านตาข้างเดียว",
+        "การตีความผิวนูน/เว้าขึ้นกับสมมติฐานเรื่องทิศแสง จึงเปลี่ยนได้แม้ pattern ความสว่างถูกหมุนทั้งชุด"
+      ],
+      "correct": 3,
+      "why": "shape from shading อาศัยการตีความแสงเงาร่วมกับสมมติฐานทิศของแสง ไม่ใช่เพียงความเข้มแต่ละพิกเซล",
+      "error": "confusion",
+      "images": []
+    },
+    {
+      "id": "C4-28",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Texture gradients: แยกมุมมองกับความหนาแน่นจริง",
+      "source": "D",
+      "sourceDetail": "10.Perceiving Depth and Size สไลด์ 30–33",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ภาพลานมีจุดสีขาวบนพื้นผิวเป็นระยะสม่ำเสมอในโลกจริง เมื่อถ่ายมุมต่ำ ความหนาแน่นจุดบนภาพเพิ่มเข้าใกล้ขอบฟ้า ผู้วิจัยสร้างอีกภาพที่จุดจริงบนพื้นยิ่งห่างกันเมื่อไกลออกไป ทำให้ความหนาแน่นบนภาพเกือบคงที่ ข้อใดบอกผลต่อ depth cue อย่างเหมาะสม?",
+      "opts": [
+        "ความถี่บนภาพที่คงเดิมอาจสื่อความลึกได้หากวัตถุที่นำไปวางมีขนาดเปลี่ยนตามระยะจริง แต่ยังควบคุมไม่ได้ในงานนี้",
+        "ในภาพแรก การไล่ความถี่เชิงภาพช่วยให้เห็นพื้นถอยลึก; ภาพหลังลด cue นี้ได้โดยเปลี่ยนการกระจายจริงของจุด",
+        "การเปลี่ยนการกระจายจริงอาจเพิ่มการตีความจาก familiar size แต่ไม่ได้แปลว่า texture gradient ไม่สามารถใช้ผ่านภาพถ่าย",
+        "ความถี่ผิวที่เพิ่มทางขอบฟ้าอาจเป็นผลจากกล้องเลนส์ยาว จึงควรเปลี่ยนเลนส์พร้อมสภาพพื้นเพื่อทดสอบ"
+      ],
+      "correct": 1,
+      "why": "ความถี่/ขนาดของผิวบนระนาบภาพเป็น depth cue เมื่อความสัมพันธ์ของพื้นผิวสอดคล้องกับฉาก",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-29",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Accommodation แยกจาก vergence โดยควบคุมภาพ",
+      "source": "D",
+      "sourceDetail": "10.Perceiving Depth and Size สไลด์ 42–49",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "นักวิจัยใช้เลนส์ปรับกำลังแสงให้ภาพหนังสือที่อยู่ระยะเดิมยังคมชัด แต่บังคับให้ระบบโฟกัสของผู้ดูต้องปรับต่างไป โดยไม่เปลี่ยนระยะทางจริงหรือภาพจากตาซ้าย–ขวา ข้อใดคือเหตุผลเชิงทดลองของการเปลี่ยนกำลังเลนส์เช่นนี้?",
+      "opts": [
+        "แยกอิทธิพลของสัญญาณการปรับเลนส์ตา (accommodation) ออกจาก cue อื่นที่ระยะทางจริงคงเดิมได้บางส่วน",
+        "การเพิ่มกำลังเลนส์อาจเปลี่ยน retinal blur แต่ไม่ได้แปลว่าความต่างของการเบลอเป็นสัญญาณเดียวที่ทดสอบได้",
+        "การแยก cue ด้วยเลนส์อาจเปลี่ยนทั้ง accommodation และขนาดภาพ จึงควรยืนยันว่า magnification คงที่จริง",
+        "ถ้าทำให้ accommodation เปลี่ยนโดย convergence ไม่เปลี่ยน การประมวลผลระยะต้องไม่เปลี่ยนเพราะ cue สองตัวสมมูลกัน"
+      ],
+      "correct": 0,
+      "why": "การเปลี่ยนกำลังเลนส์อย่างควบคุมช่วยแยก cue ที่มาจากการปรับโฟกัสจาก cue อื่น แต่ไม่ใช่การลบทุก cue",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-30",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "Stereo correspondence: ความต่างระหว่างสองภาพต้องอาศัยการจับคู่",
+      "source": "D",
+      "sourceDetail": "10.Perceiving Depth and Size สไลด์ 46–54; ขยายความเชิงกลไกจากหลัก binocular disparity",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ผู้ดูเห็นภาพจากกล้องซ้ายและขวาที่อยู่ห่างกันเล็กน้อย ในพื้นที่ลายจุดซ้ำ ๆ หลายจุดมีลักษณะเหมือนกันจนจับคู่ข้ามภาพได้หลายแบบ ข้อใดอธิบายข้อจำกัดของการใช้ binocular disparity ได้ถูกต้องที่สุด?",
+      "opts": [
+        "ความลึกจากสองตาไม่ขึ้นกับการจับคู่องค์ประกอบในสองภาพ เพราะขนาดรูม่านตาต่างกันพอแล้ว",
+        "เมื่อจุดในภาพซ้ำกัน การมองสองตาจะกลายเป็นการมองตาเดียวทุกครั้งโดยไม่มีการประมวลผลร่วม",
+        "การตีความความลึกอาจกำกวมถ้าจับคู่ภาพซ้าย–ขวาไม่ชัด แม้มีสองภาพที่ต่างกันจริง",
+        "การมองสองตาจะให้ระยะเป็นเมตรได้แน่นอนโดยไม่ต้องรู้อะไรเกี่ยวกับจุดตรึงสายตาหรือการจับคู่"
+      ],
+      "correct": 2,
+      "why": "การใช้ disparity ต้องอาศัย correspondence ที่สอดคล้องกัน เมื่อจุดหน้าตาเหมือนกันมากอาจมีคำตอบได้หลายแบบ",
+      "error": "application",
+      "images": []
+    },
+    {
+      "id": "C4-31",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ความเหมือนของสีจากแสงสเปกตรัมต่างกัน (metamerism) — หัวข้อส่วนขยาย",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Trichromatic และการผสมสี — *metamerism เป็นการประยุกต์ต่อยอด ต้องตรวจยืนยันว่าอยู่ในขอบเขตสอบ*",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "เครื่องฉาย A ใช้แสงสีเหลืองช่วงคลื่นแคบ เครื่องฉาย B ผสมแสงแดง–เขียวให้ผู้มองรายหนึ่งเห็นสีเหลืองใกล้เคียงกันมากบนจอเดียวกัน ข้อใดเป็นเหตุผลที่ “ความรู้สึกสีเหมือน” ไม่ได้แปลว่า “คลื่นแสงเหมือน”?",
+      "opts": [
+        "ตัวรับสีทำหน้าที่ตรวจทุกความยาวคลื่นแยกอย่างแม่นยำ จึงเกิดการมองสีเหมือนจากสเปกตรัมต่างกันไม่ได้",
+        "ผู้มองต้องตาบอดสีเสมอถ้าบอกว่าแสงสองสเปกตรัมมีสีเดียวกัน",
+        "หากสีที่เห็นเหมือนกัน พลังงานทุกช่วงคลื่นในภาพ A และ B ต้องเท่ากันทีละช่วง",
+        "รูปแบบการกระตุ้นตัวรับสีสามารถใกล้เคียงกันได้จากสเปกตรัมต่างกัน จึงให้การปรากฏของสีคล้ายกัน"
+      ],
+      "correct": 3,
+      "why": "การรับสีเป็นผลของสัญญาณจากช่องรับสี ไม่ใช่อ่านสเปกตรัมละเอียดทุกความยาวคลื่นโดยตรง",
+      "error": "confusion",
+      "images": []
+    },
+    {
+      "id": "C4-32",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "แยกผลของสีวัสดุออกจากส่วนประกอบแสงส่อง ไม่ถาม additive/subtractive แบบเดิม",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Color Perception / คุณสมบัติแสงและการผสมสี — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ใช้กระดาษที่สะท้อนแสงช่วงแดงดี แต่สะท้อนช่วงน้ำเงินต่ำมาก เมื่อส่องด้วยไฟสีน้ำเงินเกือบล้วน ภายใต้สมมติว่าไม่มีสารเรืองแสง กระดาษจะมีแนวโน้มเป็นอย่างไร?",
+      "opts": [
+        "ยังสะท้อนแดงได้มาก เพราะค่าการสะท้อนในช่วงแดงเป็นคุณสมบัติของวัสดุ ไม่ขึ้นกับแหล่งกำเนิดแสง",
+        "ดูค่อนข้างมืด เพราะแทบไม่มีแสงในช่วงที่วัสดุสะท้อนได้ดีให้สะท้อนออกมา",
+        "จะดูน้ำเงินอย่างชัดเจนเพราะแสงที่ใช้เป็นน้ำเงิน แม้สะท้อนแสงช่วงน้ำเงินได้น้อยมาก",
+        "อาจมืดหรือสว่างขึ้นอยู่กับแสงโดยรวม แต่จากข้อมูลช่วงคลื่นสะท้อนกับแสงส่องยังคาดอะไรไม่ได้"
+      ],
+      "correct": 1,
+      "why": "วัตถุสะท้อนเฉพาะพลังงานแสงที่ตกกระทบแล้วสะท้อนได้ หากไฟแทบไม่มีคลื่นแดง สีพื้นผิวแดงอาจดูมืดมาก",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-33",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ความคงที่ของสี vs กลไกคอนทราสต์เมื่อฉากเปลี่ยน",
+      "source": "C",
+      "sourceDetail": "สรุป S&P ส่วน Color Perception; 9.Perceptual Constancy สไลด์ 83–84",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "แผ่นสีเป้าหมายมีค่าสัญญาณ RGB เท่าเดิมทุกพิกเซล แต่เมื่อนำไปวางบนพื้นสีม่วงกับพื้นสีเหลือง ผู้สังเกตบอกว่าสีเป้าหมายเปลี่ยนไป หากต้องตรวจว่าปัจจัยที่เปลี่ยนคือ “ภาพฉาย” หรือ “การตีความสี” ต้องตรวจอะไร?",
+      "opts": [
+        "ตรวจค่าสีเป้าหมายโดยตรงกับคำตอบของผู้ดู แล้ววัดการเปลี่ยนเมื่อเอาพื้นหลังออก โดยไม่เปลี่ยนเป้าหมาย",
+        "ถามชื่อสีเป้าหมายอย่างเดียว เพราะชื่อสีที่เปลี่ยนยืนยันว่าค่า RGB ต่างกัน",
+        "ตัดภาพส่วนกลางออกให้เหลือแต่พื้นหลัง เพื่อวัดค่า reflectance ของเป้าหมายจากความจำ",
+        "ใช้ผู้ดูเพียงคนเดียวแล้วถือว่าผลสะท้อนลักษณะการมองเห็นของทุกคนอย่างแน่นอน"
+      ],
+      "correct": 0,
+      "why": "หากค่ากายภาพเป้าหมายคงเดิมแต่รายงานต่าง การจัดวางสีรอบข้างมีผลต่อ color appearance",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-34",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "การระบุสีด้วยรหัส RGB ไม่เท่ากับแสงที่เข้าตาจริง",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Color Perception; หลักการวัดสิ่งเร้า — ส่วนต่อยอดเชิงวิธีทดลอง",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "นักศึกษากำหนดพิกเซล 2 จอเป็นค่า RGB (200,80,80) เหมือนกันทุกค่า แต่หน้าจอหนึ่งปรับความสว่างสูงกว่าอีกจอ และ white balance ต่างกัน ข้อใดเป็นข้อควรระวังที่ตรงที่สุดเมื่อใช้สองจอทดสอบการรับรู้สี?",
+      "opts": [
+        "พิกเซลที่มีตัวเลข RGB ตรงกันรับประกันว่าสเปกตรัมและความสว่างที่ผู้ดูได้รับเท่ากัน",
+        "ถ้าผู้ตอบให้ชื่อสีต่างกันยืนยันว่าเขาไม่เข้าใจ trichromatic theory เสมอ",
+        "ต้องควบคุม/สอบเทียบการแสดงผลจริง เพราะรหัสเดียวกันไม่รับประกัน stimulus ทางแสงเหมือนกัน",
+        "ควรปิดข้อมูลระดับความสว่างจอทั้งหมด แล้วใช้เพียงชื่อแบรนด์จอเป็นตัวควบคุม"
+      ],
+      "correct": 2,
+      "why": "RGB ที่กำหนดในไฟล์ไม่ยืนยันว่าอุปกรณ์ต่างกันปล่อยแสงเหมือนกัน จึงมีปัญหาการควบคุมสิ่งเร้า",
+      "error": "application",
+      "images": []
+    },
+    {
+      "id": "C4-35",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ผลคาดหวังของการปรับตัว: พฤติกรรมขึ้นกับพื้นกลางที่ทดสอบ",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Color Perception / Negative Afterimage — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ผู้ดูจ้องผืนสีเข้มที่ออกแดงอยู่นาน ก่อนเปลี่ยนไปยังพื้นสีเทาเป็นกลาง เมื่อถามว่าเห็นสีใดบนพื้นใหม่ นักวิจัยไม่ควรสรุปสิ่งใดจากการเกิดภาพติดตาสีตรงข้าม?",
+      "opts": [
+        "อาการที่รายงานสัมพันธ์กับการปรับตัวของระบบรับสีและการประมวลผลคู่ตรงข้าม",
+        "แสงที่สะท้อนจากพื้นสีเทาได้เปลี่ยนเป็นสีตรงข้ามทางกายภาพเพราะตาผู้สังเกตเพิ่งมองสีแดง",
+        "เวลาการจ้องและความสว่างของสิ่งเร้าก่อนหน้าเป็นปัจจัยที่ควรควบคุมในการวัดผล",
+        "การสังเกตหลังหยุดสิ่งเร้าสามารถต่างจากสีของพื้นปัจจุบันที่จอตารับได้"
+      ],
+      "correct": 1,
+      "why": "ภาพติดตาสีตรงข้ามเป็นผลทางระบบการมองเห็น ไม่ได้เปลี่ยนองค์ประกอบทางกายภาพของแสงจากพื้นทดสอบ",
+      "error": "confusion",
+      "images": []
+    },
+    {
+      "id": "C4-36",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceptual Development",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "การวัดการรับรู้ทารกต้องแยกการหันมองออกจากการมองเห็น",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Perceptual Development / Preferential Looking — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ทารกกลุ่มหนึ่งเคลื่อนไหวคอน้อยจึงหันไปหาภาพด้านข้างได้น้อย แต่นักวิจัยต้องการทดสอบความสามารถแยกลายภาพ 2 แบบ ข้อใดออกแบบวิธีประเมินได้เหมาะสมกว่า?",
+      "opts": [
+        "จัดภาพทั้งคู่ให้ปรากฏในตำแหน่งที่มองได้สะดวก สลับด้านของภาพและติดตามทิศสายตา/เวลามอง โดยไม่บังคับให้หันคอมาก",
+        "สลับด้านภาพและเพิ่มระยะการหันคอเพื่อให้ความต่างของการเคลื่อนไหวปรากฏมากขึ้นในการวัด",
+        "ใช้อัตราการกะพริบตาเพียงอย่างเดียวเป็นการวัดความสามารถจำแนกลายโดยไม่ขึ้นกับการเคลื่อนไหวคอ",
+        "ให้ภาพที่มีเสียงช่วยกำกับทิศ แต่ยอมให้เสียงด้านหนึ่งต่างกันเพื่อเพิ่มเวลามองที่ตรวจวัดได้"
+      ],
+      "correct": 0,
+      "why": "การควบคุมความสามารถเคลื่อนไหวและ side bias ช่วยทำให้ preferential looking สะท้อนการประมวลผลภาพมากขึ้น",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-37",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceptual Development",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ความชอบที่เปลี่ยนตามความคุ้นเคยไม่เท่ากับพัฒนาการถาวร",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Perceptual Development / Preference & Habituation — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ทารกมองภาพ X มากกว่า Y ในวันแรก แต่หลังเห็น X ซ้ำหลายครั้งกลับมอง Y มากกว่า นักศึกษาสรุปว่า “ความสามารถมองเห็น X เสื่อมลงภายในวันเดียว” ข้อใดโต้แย้งได้ดีที่สุด?",
+      "opts": [
+        "ลักษณะการมองซ้ำอาจได้รับผลของความคุ้นเคยและความแปลกใหม่ การเปลี่ยนเวลามองอย่างเดียวไม่ยืนยัน sensory loss",
+        "การที่เวลามองเปลี่ยนแสดงว่าความคมชัดบนเรตินาต้องลดลงทางกายภาพ เพราะภาพ X เหมือนเดิม",
+        "ถ้าทารกชอบ Y มากขึ้น ต้องถือว่าทารกเคยไม่เห็น X ในวันแรก เพราะความชอบหนึ่งต้องแทนที่อีกความชอบ",
+        "ควรนับเพียงคำตอบของผู้ปกครอง เพราะเวลามองไม่เกี่ยวกับการรับรู้ของทารกทุกกรณี"
+      ],
+      "correct": 0,
+      "why": "habituation/novelty มีผลต่อเวลามองโดยไม่บ่งว่า visual acuity ลดลง",
+      "error": "mechanism",
+      "images": []
+    },
+    {
+      "id": "C4-38",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Perceptual Development",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "การตรวจเปลี่ยนแปลงตามวัยแบบติดตามซ้ำ",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Perceptual Development — การออกแบบวิจัยเพิ่มเติมเพื่อทดสอบข้อสรุป",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "งานวิจัยพบว่าเด็กอายุ 6 เดือนจำแนกลายภาพได้ต่ำกว่าเด็ก 12 เดือนเมื่อวัดครั้งเดียว หากต้องแยกความแตกต่างระหว่างรุ่นเด็กออกจากการเปลี่ยนตามอายุภายในคนเดียว ควรเก็บข้อมูลเพิ่มเติมแบบใด?",
+      "opts": [
+        "เปรียบเทียบจำนวนของเล่นที่ผู้ปกครองมีในสองรุ่นแล้วถือว่าเป็นผลของอายุ",
+        "ทดสอบเด็กต่างอายุใหม่แต่เปลี่ยนวิธีวัดให้ยากกว่าเดิมเฉพาะกลุ่มอายุน้อย",
+        "ให้เด็ก 12 เดือนดูภาพยาวนานกว่ากลุ่ม 6 เดือน แล้วเปรียบเทียบคะแนนรวมตรง ๆ",
+        "ติดตามเด็กคนเดิมด้วยงานวัดเทียบเคียงกันหลายช่วงอายุ และตรวจผลการฝึกจากการทดสอบซ้ำ"
+      ],
+      "correct": 3,
+      "why": "longitudinal measurement ช่วยติดตาม within-person change แต่ต้องจัดการ practice effects / attrition ด้วย",
+      "error": "application",
+      "images": []
+    },
+    {
+      "id": "C4-39",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Social Perception",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "การอนุมานเจตนาจากปฏิสัมพันธ์และทิศการเคลื่อน ไม่ใช่ Halo",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Social Event Perception — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ในคลิป คน A เอื้อมมือใกล้แก้วแล้วคน B ดึงแก้วหนี ผู้ทดลองบางคนรายงานว่า A “แย่งแก้ว” แต่ภาพที่มีเสียงและฉากก่อนหน้าแสดงว่า A กำลังจะช่วยหยิบแก้วซึ่งกำลังตก ถ้าจะวัด social event perception โดยลดการเดาเจตนาจากภาพนิ่ง ควรทำอย่างไร?",
+      "opts": [
+        "จัดคลิปให้เห็นเพียงช่วงที่ A เอื้อมมือ แล้วถามเจตนา เพราะการตัดเหตุการณ์อื่นช่วยลดตัวแปรแทรกซ้อน",
+        "เปรียบเทียบคำตัดสินจากคลิปเดิมกับคลิปที่มีลำดับก่อน–หลังครบ และแยกการตีความพฤติกรรมออกจากการยืนยันข้อเท็จจริง",
+        "ให้ผู้ตอบประเมินความตั้งใจจากความเร็วของมือเพียงอย่างเดียว โดยสมมติว่าผู้มีเจตนาต่างกันเคลื่อนเร็วต่างกัน",
+        "ให้ผู้ตอบให้คะแนนความมั่นใจหลังภาพนิ่งเดียวเพื่อแยกการเห็นพฤติกรรมจากการอนุมานเจตนา"
+      ],
+      "correct": 1,
+      "why": "การรับรู้เหตุการณ์ทางสังคมขึ้นกับข้อมูลเชิงเวลา/บริบท การเปรียบเทียบช่วยตรวจ overinterpretation จากคลิปสั้น",
+      "error": "confusion",
+      "images": []
+    },
+    {
+      "id": "C4-40",
+      "set": "C",
+      "version": "4.0",
+      "topic": "Social Perception",
+      "level": "analysis",
+      "difficulty": "advanced",
+      "axis": "ควบคุมอิทธิพลความประทับใจเดิมด้วยหลักฐานที่ขัดกับความเชื่อ",
+      "source": "S",
+      "sourceDetail": "สรุป S&P ส่วน Halo Effect / Social Perception — ต้องตรวจหน้าอ้างอิงฉบับเต็ม",
+      "page": "ดูแหล่งอ้างอิงด้านล่าง",
+      "q": "ผู้ประเมินเคยประทับใจความสุภาพของผู้สมัครและให้คะแนนความรับผิดชอบสูง ก่อนพบหลักฐานการทำงานที่มีข้อผิดพลาดซ้ำ ๆ หากต้องวัดอิทธิพลของความประทับใจเดิมต่อการใช้ข้อมูลใหม่ ข้อใดเป็นตัวแปรตามที่ตรงคำถามมากที่สุด?",
+      "opts": [
+        "วัดความประทับใจด้านสุภาพหลังอ่านหลักฐานผลงาน แล้วใช้ค่านี้แทนการเปลี่ยนความรับผิดชอบ",
+        "ใช้คะแนนความรับผิดชอบก่อนรับหลักฐานอย่างเดียวเพราะอิทธิพลความประทับใจเดิมจะสะท้อนออกมาชัดที่สุดในช่วงแรก",
+        "ระดับการปรับคะแนนความรับผิดชอบหลังอ่านหลักฐานเดียวกัน เทียบกับผู้ประเมินที่ไม่เคยได้ข้อมูลความสุภาพ",
+        "ให้ผู้ประเมินประเมินความรับผิดชอบของบุคคลอื่นที่ไม่ได้มีประวัติความสุภาพเพื่อใช้เป็นการเปรียบเทียบความน่าเชื่อถือ"
+      ],
+      "correct": 2,
+      "why": "การเปลี่ยนคะแนนเมื่อมี evidence ใหม่และการมีกลุ่มควบคุมสามารถทดสอบว่า first impression ยังคงมีอิทธิพลต่อ judgment หรือไม่",
+      "error": "mechanism",
+      "images": []
+    }
+  ],
+  "legacyC": [
+    {
+      "id": "C01",
+      "set": "C",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "คำศัพท์และหลักการเดิม",
+      "q": "จากภาพแจกัน/ใบหน้า หากผู้สังเกตเปลี่ยนจากเห็นแจกันขาวเป็นเห็นใบหน้าดำ โดยภาพบนจอไม่เปลี่ยน สิ่งใดเปลี่ยนโดยตรง?",
+      "opts": [
+        "การมองเห็นด้วยตาข้างที่ถนัด",
+        "ข้อมูลแสงที่เรตินาของผู้สังเกต",
+        "การจัดสรรบริเวณที่เป็น Figure และ Ground",
+        "ลักษณะทางเรขาคณิตของเส้นขอบ"
+      ],
+      "correct": 2,
+      "why": "สิ่งเร้าคงเดิมแต่การจัด Figure–Ground พลิกได้ เป็นการจัดโครงสร้างการรับรู้ไม่ใช่ข้อมูลแสงเปลี่ยน",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Two%20silhouette%20profile%20or%20a%20white%20vase.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_silhouette_profile_or_a_white_vase.svg",
+        "author": "Ian Remsen",
+        "license": "CC0 1.0",
+        "credit": "Ian Remsen · Wikimedia Commons · CC0 1.0",
+        "alt": "ภาพสลับการรับรู้แจกันกับใบหน้าสองด้าน"
+      }
+    },
+    {
+      "id": "C02",
+      "set": "C",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "คำศัพท์และหลักการเดิม",
+      "q": "จุดที่อยู่ใกล้กันบางคู่ถูกคั่นโดยขอบของวงปิด แต่ผู้ดูยังจัดกลุ่มจุดตามวงปิดตามภาพ หลักฐานนี้ชี้สิ่งใด?",
+      "opts": [
+        "Proximity เป็นกฎที่ชนะทุกกรณี",
+        "Common Region สามารถแข่งขันกับ Proximity ได้",
+        "Closure อธิบายได้โดยไม่ต้องมีบริเวณปิด",
+        "Binocular Disparity เป็นตัวจัดกลุ่ม"
+      ],
+      "correct": 1,
+      "why": "Common Region จัดกลุ่มองค์ประกอบที่อยู่ในขอบเขตเดียวกัน แม้ความใกล้กันจะบ่งอีกแบบ",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LawofcommonRegion.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:LawofcommonRegion.jpg",
+        "author": "BE12M",
+        "license": "CC BY-SA 4.0",
+        "credit": "BE12M · Wikimedia Commons · CC BY-SA 4.0",
+        "alt": "จุดกลุ่มเดียวกันภายในกรอบ"
+      }
+    },
+    {
+      "id": "C03",
+      "set": "C",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "คำศัพท์และหลักการเดิม",
+      "q": "ในภาพ Kanizsa ผู้ดูเห็นขอบสามเหลี่ยมที่ไม่มีเส้นวาดจริง สมมติฐานใดอธิบายสิ่งที่เกิดขึ้นตรงที่สุด?",
+      "opts": [
+        "เส้นสามเหลี่ยมมีความเข้มแสงเท่ากับเส้นที่พิมพ์จริง",
+        "ความคลาดเคลื่อนของเลนส์ทำให้แสงสร้างเส้นใหม่",
+        "Retinal Disparity จากตาสองข้างสร้างขอบทั้งหมด",
+        "ระบบการรับรู้เติมโครงร่างที่สอดคล้องกับการจัดรูปแบบโดยรวม"
+      ],
+      "correct": 3,
+      "why": "Illusory contour เป็นผลของการจัด Gestalt และการเติมรูปร่าง ไม่ได้มีขอบจริงบนเรตินา",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanizsa%20triangle.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanizsa_triangle.svg",
+        "author": "Fibonacci",
+        "license": "GFDL",
+        "credit": "Fibonacci · Wikimedia Commons · GFDL",
+        "alt": "ภาพสามเหลี่ยม Kanizsa ที่เกิดขอบลวง"
+      }
+    },
+    {
+      "id": "C04",
+      "set": "C",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "คำศัพท์และหลักการเดิม",
+      "q": "เมื่อลูกศรเคลื่อนไปทิศทางเดียวกับจุดหลายสี ผู้ดูจัดลูกศรเหล่านั้นเป็นกลุ่ม แม้สีใกล้เคียงกับอีกกลุ่มมากกว่า ทำไม?",
+      "opts": [
+        "การรับรู้ระยะทางด้วย Accommodation",
+        "เกิด Lightness Constancy จึงเห็นเป็นกลุ่ม",
+        "Similarity ด้านสีต้องเป็นตัวกำหนดเสมอ",
+        "Common Fate ด้านการเคลื่อนที่ร่วมชี้ความเป็นกลุ่ม"
+      ],
+      "correct": 3,
+      "why": "ทิศทางเคลื่อนร่วมกันเป็น Common Fate และมีอิทธิพลต่อการจัดกลุ่มมากกว่าสีในสถานการณ์นี้",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Law%20of%20common%20fate%20gestalt%20hariadhi.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Law_of_common_fate_gestalt_hariadhi.svg",
+        "author": "Hariadhi",
+        "license": "CC BY-SA 4.0",
+        "credit": "Hariadhi · Wikimedia Commons · CC BY-SA 4.0",
+        "alt": "ภาพสาธิตการจัดกลุ่มด้วย Common Fate"
+      }
+    },
+    {
+      "id": "C05",
+      "set": "C",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "คำศัพท์และหลักการเดิม",
+      "q": "เมื่อมอง Necker cube กลับไปกลับมาแม้ตำแหน่งเส้นไม่เปลี่ยน ข้อสรุปใดแม่นที่สุด?",
+      "opts": [
+        "การสลับบ่งบอกการเปลี่ยนแสงจริงภายนอก",
+        "โลกจริงต้องมีลูกบาศก์สองอันสลับกัน",
+        "โครงสร้างภาพสองมิติยอมให้ตีความมิติสามแบบที่แข่งขันกัน",
+        "ผู้ดูสูญเสียการรับรู้ความลึกทุกชนิด"
+      ],
+      "correct": 2,
+      "why": "ภาพกำกวมให้การตีความความลึกที่เป็นไปได้หลายแบบ จึงเกิด multistable perception",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Necker%20cube.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Necker_cube.svg",
+        "author": "BenFrantzDale",
+        "license": "GFDL / CC BY-SA",
+        "credit": "BenFrantzDale · Wikimedia Commons · GFDL / CC BY-SA",
+        "alt": "ลูกบาศก์ Necker ที่ตีความมิติได้มากกว่าหนึ่งแบบ"
+      }
+    },
+    {
+      "id": "C06",
+      "set": "C",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "คำศัพท์และหลักการเดิม",
+      "q": "ผู้เรียนเห็นรูปทรงที่มีช่องว่างเล็ก ๆ เป็นรูปปิด แต่เมื่อช่องว่างขยายมากจนไม่รับรู้รูปทรงนั้น แนวคิดใดอธิบายความต่าง?",
+      "opts": [
+        "Closure ขึ้นกับความเป็นไปได้ของการเติมส่วนที่หายไป",
+        "Closure ทำงานเฉพาะภาพที่เป็นวัตถุจริง",
+        "Proximity หมายถึงสีเหมือนกันเท่านั้น",
+        "การรับรู้รูปปิดใช้การมองเห็นสองตาเสมอ"
+      ],
+      "correct": 0,
+      "why": "Closure มักสมบูรณ์เมื่อระบบเชื่อมส่วนที่ขาดได้อย่างมีแบบแผน ภาพที่ขาดมากอาจไม่ก่อรูป",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gestalt%20closure.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gestalt_closure.svg",
+        "author": "Kasufcgslfguhvsne",
+        "license": "Public domain",
+        "credit": "Kasufcgslfguhvsne · Wikimedia Commons · Public domain",
+        "alt": "ภาพ Closure ของ Gestalt"
+      }
+    },
+    {
+      "id": "C07",
+      "set": "C",
+      "topic": "Gestalt & Object Forms",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "คำศัพท์และหลักการเดิม",
+      "q": "กลุ่ม A ได้คำใบ้ว่าจะเห็นกระต่าย ส่วนกลุ่ม B ได้คำใบ้ว่าเป็ด ก่อนดูภาพกำกวมเดียวกัน เหตุการณ์นี้ต่างจาก Figure–Ground ในภาพแจกันอย่างไร?",
+      "opts": [
+        "ภาพสัตว์เปลี่ยนขนาดจริงทุกครั้งที่ให้คำใบ้",
+        "ภาพแจกันไม่มีโอกาสสลับการรับรู้",
+        "คำใบ้ทำให้ข้อมูลแสงที่จอตาเปลี่ยนทันที",
+        "ภาพสัตว์มีความหมายให้ตีความสองแบบและอาจได้รับอิทธิพลจาก Perceptual Set"
+      ],
+      "correct": 3,
+      "why": "ภาพเป็ด-กระต่ายเป็น ambiguous figure และบริบทหรือความคาดหวังอาจให้น้ำหนักการตีความ",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duck-Rabbit%20illusion.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duck-Rabbit_illusion.jpg",
+        "author": "Wikimedia Commons",
+        "license": "Public domain",
+        "credit": "Wikimedia Commons · Wikimedia Commons · Public domain",
+        "alt": "ภาพกำกวมเป็ดหรือกระต่าย"
+      }
+    },
+    {
+      "id": "C08",
+      "set": "C",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "5–15",
+      "q": "กระดาษสีเทาแผ่นเดิมสะท้อนแสงสัดส่วนเดิมทุกครั้ง แต่เมื่อย้ายจากแดดเข้าร่ม ความสว่างทางกายภาพที่เข้าตาลดลง ข้อใดแยก Albedo กับ Brightness ถูก?",
+      "opts": [
+        "ทั้ง Albedo และ Brightness เท่ากับระยะห่างผู้ดู",
+        "Brightness หมายถึงคุณสมบัติพื้นผิวที่ไม่ขึ้นกับแสง",
+        "Albedo เปลี่ยนตามแสงทุกครั้ง แต่ Brightness คงเดิม",
+        "Albedo คือสัดส่วนแสงที่สะท้อน ขณะที่ความเข้มแสงที่มองเห็นอาจเปลี่ยน"
+      ],
+      "correct": 3,
+      "why": "Reflectance/Albedo เป็นสัดส่วนพื้นผิว (ถ้าไม่เปลี่ยนสภาพ) ส่วนแสงที่ตกกระทบมีผลต่อ luminance/brightness",
+      "error": "mechanism"
+    },
+    {
+      "id": "C09",
+      "set": "C",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "หัวข้อ Ames illusion",
+      "q": "สองคนส่วนสูงจริงเท่ากันยืนคนละมุมในภาพถ่ายห้อง Ames ผู้ดูเห็นขนาดต่างกันมาก การตีความใดให้เหตุผลดีที่สุด?",
+      "opts": [
+        "ทั้งสองคนต้องมีความสูงจริงไม่เท่ากัน",
+        "กล้ามเนื้อตาทำงานผิดจนเรตินาขยายไม่เท่ากัน",
+        "ผู้ดูสมมติเรขาคณิตห้องผิด ทำให้ประเมินระยะทางผิดและชดเชยขนาดผิด",
+        "เกิด Color Constancy มากกว่าการรับรู้ระยะทาง"
+      ],
+      "correct": 2,
+      "why": "ห้อง Ames ใช้มุมมองและรูปร่างห้องบิดเบี้ยว ทำให้ข้อมูลระยะทางไม่น่าเชื่อถือและการคงที่ขนาดล้มเหลว",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ames%20room%20forced%20perspective.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ames_room_forced_perspective.jpg",
+        "author": "mosso",
+        "license": "CC BY 2.0",
+        "credit": "mosso · Wikimedia Commons · CC BY 2.0",
+        "alt": "ภาพถ่ายห้อง Ames ที่คนสองฝั่งดูตัวต่างขนาด"
+      }
+    },
+    {
+      "id": "C10",
+      "set": "C",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "หัวข้อความคงที่ของรูปร่าง",
+      "q": "ผู้เรียนดูประตูที่เปิดเฉียง: ภาพฉายบนจอประสาทตาแคบลง แต่ยังบอกว่าประตูเป็นสี่เหลี่ยมผืนผ้า ข้อมูลใดช่วยได้มากที่สุด?",
+      "opts": [
+        "Shape Constancy ร่วมกับการตีความมุมและความลึก",
+        "การเปลี่ยนคุณสมบัติสีของไม้ให้คงเดิม",
+        "ภาพบนจอประสาทตาไม่เปลี่ยนจริง",
+        "ไม่มีการใช้ประสบการณ์เกี่ยวกับรูปทรงเลย"
+      ],
+      "correct": 0,
+      "why": "Shape Constancy ช่วยรักษารูปทรงที่รับรู้แม้ retinal projection เปลี่ยนตามมุมมอง",
+      "error": "mechanism"
+    },
+    {
+      "id": "C11",
+      "set": "C",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "18–30",
+      "q": "เมื่อมองคนเดิมจากระยะ 2 เมตร และ 8 เมตร ภาพบนเรตินาของคนที่ไกลเล็กลง แต่เรายังรู้ว่าตัวจริงเท่าเดิม ข้อใดไม่ใช่เงื่อนไขที่ช่วยอธิบาย?",
+      "opts": [
+        "ความคุ้นเคยกับขนาดมนุษย์",
+        "ความสามารถชดเชยมุมที่ภาพกางบนเรตินา",
+        "ขนาดภาพที่จอตาต้องคงที่ระหว่างสองระยะ",
+        "ข้อมูลระยะห่างจากสิ่งแวดล้อม"
+      ],
+      "correct": 2,
+      "why": "Size Constancy เกิดแม้ retinal image size เปลี่ยน; distance cues และขนาดคุ้นเคยช่วยชดเชย",
+      "error": "mechanism"
+    },
+    {
+      "id": "C12",
+      "set": "C",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "12–17",
+      "q": "หากให้คนมองแผ่นเทาเดิมผ่านช่องเล็ก ๆ ที่ตัดฉากรอบข้างออก ผลต่อ Lightness Constancy ที่คาดได้มากที่สุดคืออะไร?",
+      "opts": [
+        "Albedo ของกระดาษเปลี่ยนตามขนาดช่อง",
+        "เกิด Binocular Disparity ที่มากขึ้นทันที",
+        "ข้อมูลเปรียบเทียบแสงรอบข้างลดลง ทำให้ความคงที่อาจด้อยลง",
+        "ความคงที่สมบูรณ์ขึ้นเพราะตัดทุกบริบท"
+      ],
+      "correct": 2,
+      "why": "Lightness Constancy ใช้บริบทแสงและพื้นผิวโดยรอบ; การลดข้อมูลอ้างอิงทำให้ตีความยาก",
+      "error": "mechanism"
+    },
+    {
+      "id": "C13",
+      "set": "C",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "23–30",
+      "q": "ถ้าการคงที่ขนาดอยู่ระหว่างการเห็นขนาดจากมุมภาพล้วนกับขนาดจริงของวัตถุ คำใดตรงกับสไลด์มากที่สุด?",
+      "opts": [
+        "Absolute distance estimation by the retina",
+        "Pure retinal size",
+        "Compromise between Perspective Size and Object Size",
+        "Complete loss of size information"
+      ],
+      "correct": 2,
+      "why": "สไลด์แบ่งการรับรู้เป็น object size, perspective size และ compromise ที่ชดเชยบางส่วน",
+      "error": "mechanism"
+    },
+    {
+      "id": "C14",
+      "set": "C",
+      "topic": "Perceptual Constancy",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "18–30",
+      "q": "คนมองรถสองคันขนาดจริงใกล้เคียงกัน ภาพรถไกลเล็กกว่า แต่ผู้สังเกตรู้สึกว่ารถไกลไม่เล็กเท่าภาพจอประสาทตา ข้อใดอธิบายสองข้อมูลร่วมกัน?",
+      "opts": [
+        "Size Constancy ทำให้ perceived size ไม่เท่ากับ retinal size โดยอาศัย distance information",
+        "Convergence เพียงอย่างเดียวทำให้ภาพบนจอประสาทตาโตขึ้นจริง",
+        "Brightness Constancy ทำให้วัตถุไม่เคลื่อน",
+        "การรับรู้ขนาดต้องละเลยระยะทางทั้งหมด"
+      ],
+      "correct": 0,
+      "why": "ข้อมูลระยะทางช่วยกำหนด perceived size ไม่ใช่คำนวณจาก retinal image size อย่างเดียว",
+      "error": "mechanism"
+    },
+    {
+      "id": "C15",
+      "set": "C",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "หัวข้อ Ponzo illusion",
+      "q": "ในภาพ Ponzo เส้นแนวนอนด้านบนดูยาวกว่าแม้มีความยาวเท่ากัน การเปลี่ยนแปลงใดคาดว่าทำให้ภาพลวงตาลดลงได้มากที่สุด?",
+      "opts": [
+        "เพิ่มแสงสว่างของหน้าจออย่างเดียว",
+        "สลับตาซ้ายเป็นตาขวาอย่างเดียว",
+        "เพิ่มขนาดตัวอักษรคำถามใต้ภาพ",
+        "ลดหรือเอาเส้นลู่เข้าที่ให้บริบท Linear Perspective ออก"
+      ],
+      "correct": 3,
+      "why": "Ponzo illusion อาศัยตัวชี้นำความลึกจากบริบทแนวเส้นลู่ เมื่อกำจัดบริบทผลลวงตาอาจอ่อนลง",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ponzo%20illusion.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponzo_illusion.svg",
+        "author": "PolBr",
+        "license": "CC BY-SA 4.0",
+        "credit": "PolBr · Wikimedia Commons · CC BY-SA 4.0",
+        "alt": "ภาพ Ponzo illusion เส้นสองระดับ"
+      }
+    },
+    {
+      "id": "C16",
+      "set": "C",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "หัวข้อ Ebbinghaus illusion",
+      "q": "วงกลางสองวงมีขนาดจริงเท่ากัน แต่เมื่อถูกล้อมด้วยวงใหญ่/วงเล็กกลับดูต่างกัน หากอธิบายเชิงกลไกควรให้น้ำหนักอะไร?",
+      "opts": [
+        "Motion Parallax เพราะภาพนิ่งมีความเร็วต่างกัน",
+        "Chromatic Adaptation เพียงอย่างเดียว",
+        "Relative Size Context ของวงรอบที่เปลี่ยนการเปรียบเทียบ",
+        "Retinal image ของวงกลางถูกขยายจากกราฟิกจริง"
+      ],
+      "correct": 2,
+      "why": "Ebbinghaus illusion ใช้บริบทขนาดของสิ่งแวดล้อมที่ล้อมวัตถุในการตัดสินขนาด",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ebbinghaus%20Illusion.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ebbinghaus_Illusion.svg",
+        "author": "AlexWorth91",
+        "license": "CC0 1.0",
+        "credit": "AlexWorth91 · Wikimedia Commons · CC0 1.0",
+        "alt": "ภาพ Ebbinghaus illusion กับวงกลมล้อมรอบ"
+      }
+    },
+    {
+      "id": "C17",
+      "set": "C",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "หัวข้อ Ames illusion",
+      "q": "มองจากหน้าต่างภาพ Ames room แล้วสรุปว่า “คนมุมซ้ายเตี้ยกว่าแน่” เหตุใดข้อสรุปนี้จึงไม่สมเหตุสมผล?",
+      "opts": [
+        "Retinal Disparity ใช้ไม่ได้ในมนุษย์ทั้งหมด",
+        "ขนาดภาพเพียงอย่างเดียวแยกขนาดจริงจากระยะทางและโครงสร้างห้องไม่ได้",
+        "ความสูงมนุษย์วัดไม่ได้ด้วยระบบสายตา",
+        "สีเสื้อกำหนดความสูงเสมอ"
+      ],
+      "correct": 1,
+      "why": "ใน Ames room การบิดเบือนห้องทำให้ตัวชี้นำระยะทางหลอกระบบอนุมานขนาดจริง",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ames%20room%20forced%20perspective.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ames_room_forced_perspective.jpg",
+        "author": "mosso",
+        "license": "CC BY 2.0",
+        "credit": "mosso · Wikimedia Commons · CC BY 2.0",
+        "alt": "ภาพถ่ายห้อง Ames ที่คนสองฝั่งดูตัวต่างขนาด"
+      }
+    },
+    {
+      "id": "C18",
+      "set": "C",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "หัวข้อ Poggendorff illusion",
+      "q": "ภาพ Poggendorff ทำให้ส่วนต่อของเส้นทแยงที่ถูกแถบทึบบังดูเยื้องกัน ถ้าจะตั้งสมมติฐานแยกจาก Ponzo ควรทดสอบอะไร?",
+      "opts": [
+        "การประมาณแนวต่อเนื่องของเส้นผ่านสิ่งกีดขวาง เทียบกับบริบทความลึกจากเส้นลู่",
+        "การปรับเลนส์เมื่อต้องมองของใกล้ เทียบกับไกล",
+        "การรับสีแดง-เขียว เทียบกับน้ำเงิน-เหลือง",
+        "การเคลื่อนไหวศีรษะเมื่อมองต้นไม้"
+      ],
+      "correct": 0,
+      "why": "Poggendorff เกี่ยวกับการจัดแนว/ทิศของเส้นที่ถูกบดบัง ต่างจาก Ponzo ซึ่งเน้นขนาดที่ดูต่างจาก perspective context",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Poggendorff%20illusion.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poggendorff_illusion.svg",
+        "author": "Fibonacci",
+        "license": "CC BY-SA 3.0",
+        "credit": "Fibonacci · Wikimedia Commons · CC BY-SA 3.0",
+        "alt": "ภาพ Poggendorff เส้นทแยงดูเยื้องเมื่อถูกบัง"
+      }
+    },
+    {
+      "id": "C19",
+      "set": "C",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "หัวข้อ Müller-Lyer illusion",
+      "q": "ถ้าให้ผู้ทดลองวัดความยาวเส้นของ Müller–Lyer ด้วยไม้บรรทัดแล้วพบว่าเท่ากัน แต่ความรู้สึกยังไม่เท่า ข้อใดถูก?",
+      "opts": [
+        "ไม้บรรทัดเปลี่ยนความยาวจริงทุกครั้งที่มอง",
+        "ภาพลวงตาพิสูจน์ว่าความยาวเป็นสมบัติไม่มีอยู่จริง",
+        "ความรู้สึกต่างกันจึงหมายถึงดวงตาบาดเจ็บ",
+        "ความต่างระหว่าง perceptual judgment กับ physical measurement เป็นใจความของภาพลวงตา"
+      ],
+      "correct": 3,
+      "why": "ความรู้สึกว่าขนาดต่างกับขนาดทางกายภาพที่วัดได้คือภาพลวงตา",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCller-Lyer%20illusion%20-%20simple.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Müller-Lyer_illusion_-_simple.svg",
+        "author": "Phlsph7",
+        "license": "CC0 1.0",
+        "credit": "Phlsph7 · Wikimedia Commons · CC0 1.0",
+        "alt": "ภาพ Müller–Lyer เส้นยาวเท่ากันพร้อมหัวลูกศร"
+      }
+    },
+    {
+      "id": "C20",
+      "set": "C",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "คำศัพท์และหลักการเดิม",
+      "q": "เปรียบเทียบ Necker cube กับ impossible cube ตามภาพ ข้อใดแยกความกำกวมกับความเป็นไปไม่ได้ได้ถูกต้องที่สุด?",
+      "opts": [
+        "ทั้งสองต่างกันเพียงความสว่าง",
+        "ทั้งสองเป็นภาพที่ไม่มีการตีความสามมิติใด ๆ",
+        "Necker มีการอ่านความลึกได้หลายแบบ ส่วน impossible cube รวมความสัมพันธ์เชิงมิติที่ขัดกันเมื่ออ่านเป็นวัตถุเดียว",
+        "Impossible cube มีความลึกจริงเพียงแบบเดียว ส่วน Necker ไม่มีความลึก"
+      ],
+      "correct": 2,
+      "why": "Ambiguous figure อนุญาตทางเลือกการตีความ ส่วน impossible figure ทำให้ข้อกำหนดท้องถิ่นขัดกับโครงสร้างรวม",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Necker%20cube%20and%20impossible%20cube.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Necker_cube_and_impossible_cube.svg",
+        "author": "Maksim / Boivie",
+        "license": "CC BY-SA 3.0",
+        "credit": "Maksim / Boivie · Wikimedia Commons · CC BY-SA 3.0",
+        "alt": "ภาพเปรียบเทียบ Necker cube กับ impossible cube"
+      }
+    },
+    {
+      "id": "C21",
+      "set": "C",
+      "topic": "Visual Illusions",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "C",
+      "page": "หัวข้อ Visual Illusions",
+      "q": "นักศึกษาสองคนเห็นเส้นเดียวกันในภาพลวงตาแต่ตอบความยาวต่างกันมาก ข้อสรุปใดเหมาะกับหลักการวิจัยมากที่สุด?",
+      "opts": [
+        "ใช้ความยาวจากภาพในความจำแทนค่าทางกายภาพ",
+        "แยกค่าที่วัดได้จริงออกจากการตัดสินที่รับรู้ และควบคุมบริบทของภาพก่อนสรุปกลไก",
+        "ตัดข้อมูลคนที่เห็นผิดออกทั้งหมดโดยไม่รายงาน",
+        "สรุปทันทีว่าหนึ่งคนโกหก"
+      ],
+      "correct": 1,
+      "why": "การศึกษาภาพลวงตาเปรียบเทียบ physical stimulus กับ perceptual judgment ภายใต้เงื่อนไขที่ควบคุมได้",
+      "error": "mechanism"
+    },
+    {
+      "id": "C22",
+      "set": "C",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "D",
+      "page": "25–36",
+      "q": "จากภาพถนนที่มีเส้นลู่ไปยังขอบฟ้า จุดเด่นใดให้ข้อมูลว่าถนนทอดลึกโดยไม่ต้องอาศัยการมองสองตา?",
+      "opts": [
+        "Linear Perspective และ Texture Gradient",
+        "Binocular Disparity และ Convergence เท่านั้น",
+        "Retinal Afterimage และ adaptation",
+        "Symmetry และ Common Fate เท่านั้น"
+      ],
+      "correct": 0,
+      "why": "เส้นลู่และผิวพื้นถี่ขึ้นในภาพเป็น pictorial monocular cues",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Depth%20cues%201.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Depth_cues_1.png",
+        "author": "Brazzit",
+        "license": "CC BY-SA 3.0",
+        "credit": "Brazzit · Wikimedia Commons · CC BY-SA 3.0",
+        "alt": "ภาพถ่ายถนนที่มีหลายตัวชี้นำความลึก"
+      }
+    },
+    {
+      "id": "C23",
+      "set": "C",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "D",
+      "page": "7–8",
+      "q": "วัตถุ A บังวัตถุ B บางส่วน ข้อมูลใดที่ Interposition เพียงอย่างเดียวไม่อาจบอกแน่นอนได้?",
+      "opts": [
+        "A มีระยะห่างจากผู้สังเกตเป็นเมตรเท่าใด",
+        "มีการบดบังระหว่าง A และ B",
+        "B ถูกบังบางส่วน",
+        "A อยู่ด้านหน้าของ B ในฉากที่เห็น"
+      ],
+      "correct": 0,
+      "why": "Interposition ให้ลำดับใกล้/ไกลแบบสัมพัทธ์ แต่ไม่ให้ระยะทางจริงเชิงหน่วย",
+      "error": "mechanism"
+    },
+    {
+      "id": "C24",
+      "set": "C",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "D",
+      "page": "39–41",
+      "q": "ผู้ดูหันศีรษะไปทางขวาขณะตรึงสายตาที่เสาไกล แล้วเห็นพุ่มไม้ใกล้เคลื่อนไปทางซ้ายสัมพันธ์กับเสา หลักใดเป็นคำอธิบาย?",
+      "opts": [
+        "Lightness Constancy ของใบไม้",
+        "Common Region ของสิ่งเร้า",
+        "Motion Parallax ของวัตถุที่อยู่ใกล้กว่าจุดตรึงสายตา",
+        "Convergence ของตาสองข้างขณะปิดตาหนึ่งข้าง"
+      ],
+      "correct": 2,
+      "why": "เมื่อจ้องจุดไกล วัตถุใกล้มักเลื่อนทางภาพตรงข้ามกับทิศการเคลื่อนศีรษะ",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MotionParallax.gif",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MotionParallax.gif",
+        "author": "Tarepan",
+        "license": "CC BY-SA 4.0",
+        "credit": "Tarepan · Wikimedia Commons · CC BY-SA 4.0",
+        "alt": "ภาพเคลื่อนไหวแสดง motion parallax"
+      }
+    },
+    {
+      "id": "C25",
+      "set": "C",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "D",
+      "page": "39–41, 46–52",
+      "q": "ทดลองปิดตาหนึ่งข้างแล้วขยับศีรษะเพื่อประเมินระยะใกล้/ไกล ยังใช้ตัวชี้นำใดได้ แต่ตัวชี้นำใดเสียไป?",
+      "opts": [
+        "ทั้งสองเป็นชนิดเดียวกัน",
+        "ยังมี Motion Parallax แต่ Binocular Disparity ไม่พร้อม",
+        "ยังมี Binocular Disparity แต่ Motion Parallax หายไป",
+        "ทั้งสองตัวชี้นำเพิ่มขึ้นทันที"
+      ],
+      "correct": 1,
+      "why": "Motion Parallax ใช้การเคลื่อนสัมพันธ์ แม้ตาเดียว; Binocular Disparity ต้องใช้ความแตกต่างภาพระหว่างตา",
+      "error": "mechanism"
+    },
+    {
+      "id": "C26",
+      "set": "C",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "D",
+      "page": "42, 48",
+      "q": "ขณะสลับจ้องวัตถุจากไกลมาที่ใกล้ ข้อใดอธิบายคู่ Accommodation / Convergence ถูก?",
+      "opts": [
+        "เลนส์โป่งมากขึ้นพร้อมกับตาทั้งสองหันเข้าหากันมากขึ้น",
+        "เลนส์แบนลงพร้อมกับตาแยกออกมากขึ้น",
+        "เลนส์ไม่เปลี่ยนและตาทั้งสองไม่มีการหมุน",
+        "มีเฉพาะ Binocular Disparity ไม่มีการเปลี่ยนโฟกัส"
+      ],
+      "correct": 0,
+      "why": "วัตถุใกล้ทำให้เลนส์โป่งเพื่อโฟกัส (accommodation) และตาหันเข้าหากัน (convergence)",
+      "error": "mechanism"
+    },
+    {
+      "id": "C27",
+      "set": "C",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "D",
+      "page": "30–32",
+      "q": "ในรูปถ่ายทุ่งหญ้า แถบหญ้าด้านไกลมีองค์ประกอบเล็กและถี่กว่าแถบหญ้าใกล้ ข้อมูลใดถูกที่สุด?",
+      "opts": [
+        "ภาพนี้ต้องอาศัยตาสองข้างจึงมองเห็นความถี่",
+        "Brightness Constancy ทำให้หญ้าใหญ่ขึ้นจริง",
+        "Convergence เป็นเหตุเดียวที่พื้นหญ้าดูไกล",
+        "Texture Gradient อาจให้ข้อมูลความลึกแม้เป็นภาพนิ่งสองมิติ"
+      ],
+      "correct": 3,
+      "why": "ความละเอียดและความหนาแน่นพื้นผิวที่เพิ่มไปทางไกลคือ Texture Gradient",
+      "error": "mechanism",
+      "image": {
+        "type": "external",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Depth%20cues%201.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Depth_cues_1.png",
+        "author": "Brazzit",
+        "license": "CC BY-SA 3.0",
+        "credit": "Brazzit · Wikimedia Commons · CC BY-SA 3.0",
+        "alt": "ภาพถ่ายถนนที่มีหลายตัวชี้นำความลึก"
+      }
+    },
+    {
+      "id": "C28",
+      "set": "C",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "D",
+      "page": "12",
+      "q": "เมื่อยืนบนสะพานมองภูเขาไกลสีซีดลงและมีคอนทราสต์น้อยกว่าอาคารใกล้ ข้อใดคือคำอธิบายที่สมเหตุสมผลที่สุด?",
+      "opts": [
+        "วัตถุไกลต้องมี Albedo ลดลงเสมอ",
+        "Binocular Disparity เป็นตัวชี้นำเพียงอย่างเดียวของภูเขาไกล",
+        "Aerial Perspective ใช้การลดความชัดและคอนทราสต์เมื่อมองไกล",
+        "Interposition เป็นเพียงสาเหตุเดียวที่เป็นไปได้"
+      ],
+      "correct": 2,
+      "why": "Aerial Perspective อาศัยความชัด/คอนทราสต์ลดลงกับระยะห่างในอากาศ",
+      "error": "mechanism"
+    },
+    {
+      "id": "C29",
+      "set": "C",
+      "topic": "Perceiving Depth & Size",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "D",
+      "page": "22",
+      "q": "ผู้ดูเห็นเด็กสองคนในภาพคนละระนาบโดยคนที่สูงกว่าในภาพดูอยู่ไกลกว่า จะใช้ Height in Picture Plane ได้เหมาะสมเมื่อใด?",
+      "opts": [
+        "การมองด้วยตาสองข้างเป็นข้อกำหนดของ pictorial cue",
+        "เมื่อทั้งสองอยู่บนพื้นระนาบต่อเนื่องและไม่มีเงื่อนไขอื่นที่กลับทิศความสูงในภาพ",
+        "ใช้ได้อย่างแน่นอนกับภาพทุกชนิด รวมถึงคนลอยอยู่",
+        "ใช้ได้เฉพาะภาพที่มีสีเดียว"
+      ],
+      "correct": 1,
+      "why": "Elevation cue ใช้การจัดวางวัตถุบนพื้นระนาบในภาพ ควรพิจารณาระนาบและบริบท",
+      "error": "mechanism"
+    },
+    {
+      "id": "C30",
+      "set": "C",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Color Perception",
+      "q": "กระดาษสีขาวอยู่ภายใต้หลอดไฟสีเหลือง แต่ผู้ดูยังตัดสินว่าสีกระดาษเป็นสีขาว เมื่อเทียบกับวัตถุอื่นในห้อง กลไกใดตรงที่สุด?",
+      "opts": [
+        "Color Constancy อาศัยบริบทแสงตกกระทบในการตีความสีพื้นผิว",
+        "Brightness ต่างกันแปลว่าสีพื้นผิวต้องเปลี่ยนจริงเสมอ",
+        "Binocular Disparity เปลี่ยนรงควัตถุ",
+        "Common Fate ของโฟตอน"
+      ],
+      "correct": 0,
+      "why": "Color Constancy ทำให้สีพื้นผิวที่รับรู้ค่อนข้างคงที่ภายใต้การเปลี่ยนสเปกตรัมแสง",
+      "error": "mechanism"
+    },
+    {
+      "id": "C31",
+      "set": "C",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Color Perception",
+      "q": "คนสองคนมองภาพที่มีแผ่นสีเทาเหมือนกัน แต่พื้นรอบแผ่นหนึ่งสว่างกว่า การรายงานความสว่างของแผ่นเทาอาจต่างกันอย่างไร?",
+      "opts": [
+        "ระดับการสะท้อนแสงของแผ่นเทาเปลี่ยนเพียงเพราะพื้นหลัง",
+        "ดวงตาทั้งสองต้องมีความผิดปกติ",
+        "กลไกเปรียบเทียบไม่เกี่ยวข้องกับการรับรู้สีและแสง",
+        "เกิดการเปรียบเทียบกับบริบทรอบ (simultaneous contrast) ทำให้แผ่นเดียวกันดูต่างความสว่าง"
+      ],
+      "correct": 3,
+      "why": "บริบทรอบส่งผลต่อการรับรู้ lightness/brightness ของบริเวณตรงกลางโดยไม่มีการเปลี่ยนค่าจริง",
+      "error": "mechanism"
+    },
+    {
+      "id": "C32",
+      "set": "C",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Color Perception",
+      "q": "หลังมองรูปสีแดงสดอยู่นานแล้วหันมองพื้นที่สีขาว ผู้ดูอาจเห็นภาพติดตาออกโทนเขียว คำอธิบายใดสมเหตุสมผลที่สุด?",
+      "opts": [
+        "ขนาดวัตถุไม่คงที่",
+        "Convergence ของลูกตาที่ทำให้แสงสีเขียวเกิดจากผนัง",
+        "การปรับตัวในระบบคู่ปฏิปักษ์ของการประมวลผลสี",
+        "การเปลี่ยนสีจริงของผนังเป็นเขียว"
+      ],
+      "correct": 2,
+      "why": "Negative color afterimage สอดคล้องกับ adaptation/การประมวลผลสีแบบ opponent",
+      "error": "mechanism"
+    },
+    {
+      "id": "C33",
+      "set": "C",
+      "topic": "Color Perception",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Color Perception",
+      "q": "จอฉายภาพผสมแสงแดงกับเขียวเพื่อสร้างสีเหลือง ต่างจากการผสมสีน้ำอย่างไร?",
+      "opts": [
+        "เป็นการใช้อวัยวะรับกลิ่นแทนระบบการเห็น",
+        "เป็น additive color mixing ของแสง ซึ่งไม่เหมือน subtractive mixing ของสารสี",
+        "เป็น subtractive เหมือนผสมสีเหลืองกับน้ำเงิน",
+        "เป็นการเปลี่ยนระยะห่างของภาพ"
+      ],
+      "correct": 1,
+      "why": "แสงหลายสเปกตรัมผสมกันแบบ additive ส่วนสี/สารกรองดูดกลืนแสงแบบ subtractive",
+      "error": "mechanism"
+    },
+    {
+      "id": "C34",
+      "set": "C",
+      "topic": "Perceptual Development",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Perceptual Development",
+      "q": "เด็กอายุน้อยมีประสบการณ์กับวัตถุบางประเภทจำกัด แม้รับข้อมูลทางตาได้ แนวโน้มการเรียนรู้การรู้จำรูปแบบใดน่าเป็นไปได้มากที่สุด?",
+      "opts": [
+        "ประสบการณ์และพัฒนาการช่วยปรับวิธีตีความข้อมูลทางตา",
+        "การรู้จำทุกแบบสำเร็จโดยสมบูรณ์ทันทีแต่เกิด",
+        "การเห็นภาพทุกชนิดไม่ขึ้นกับสิ่งแวดล้อมเลย",
+        "การเติบโตเปลี่ยนเฉพาะความสว่างภายนอก"
+      ],
+      "correct": 0,
+      "why": "Perceptual Development ศึกษาการเปลี่ยนความสามารถการรับรู้ร่วมกับประสบการณ์และการเติบโต",
+      "error": "mechanism"
+    },
+    {
+      "id": "C35",
+      "set": "C",
+      "topic": "Perceptual Development",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Perceptual Development",
+      "q": "ในการทดลองความลึกกับเด็กเล็ก หากเด็กไม่ยอมคลานข้ามพื้นโปร่งใสที่ดูเหมือนตกลงไป ข้อสรุปใดระมัดระวังที่สุด?",
+      "opts": [
+        "พิสูจน์แน่นอนว่าเด็กทุกคนเกิดมารู้ความลึกทุกแบบ",
+        "พิสูจน์ว่าพื้นจริงลึกลงไป",
+        "เด็กที่ไม่คลานไม่มีระบบการมองเห็น",
+        "พฤติกรรมหลีกเลี่ยงสอดคล้องกับการใช้ตัวชี้นำความลึก แต่ต้องควบคุมอายุ/ประสบการณ์การเคลื่อนที่"
+      ],
+      "correct": 3,
+      "why": "Visual cliff แสดงพฤติกรรมตอบสนองต่อความลึก แต่ผลสัมพันธ์กับพัฒนาการการเคลื่อนไหวและปัจจัยอื่น",
+      "error": "mechanism"
+    },
+    {
+      "id": "C36",
+      "set": "C",
+      "topic": "Perceptual Development",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Perceptual Development",
+      "q": "เด็กคนหนึ่งจำแนกหน้าคนคุ้นเคยแม้เปลี่ยนมุมกล้องและแสงได้ดีขึ้นตามวัย ข้อใดเป็นคำอธิบายที่สมเหตุสมผล?",
+      "opts": [
+        "ระบบสีไม่เคยพัฒนาเลย",
+        "ภาพเรตินาของทุกมุมเป็นภาพเดียวกัน",
+        "การพัฒนาการประมวลผลลักษณะที่คงตัวร่วมกับประสบการณ์",
+        "ดวงตาสร้างหน้าคนเดิมใหม่ขึ้นทางกายภาพ"
+      ],
+      "correct": 2,
+      "why": "การรู้จำที่คงที่ข้ามมุมและแสงอาศัยการเรียนรู้ตัวแบบและความสามารถการรับรู้ที่พัฒนา",
+      "error": "mechanism"
+    },
+    {
+      "id": "C37",
+      "set": "C",
+      "topic": "Perceptual Development",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Perceptual Development",
+      "q": "เปรียบเทียบเด็กสองกลุ่มที่มีประสบการณ์ด้านภาพต่างกัน หากพบคะแนนการแยกรูปทรงต่างกัน จะสรุปผลอย่างไรอย่างรับผิดชอบ?",
+      "opts": [
+        "ถือว่าความต่างทั้งหมดเป็นข้อผิดพลาดของภาพ",
+        "พิจารณาทั้งอายุ ความสามารถประสาทสัมผัส และประสบการณ์ก่อนอ้างเหตุ",
+        "สรุปว่ามีแต่พันธุกรรมและไม่มีการเรียนรู้",
+        "สรุปว่าอายุกับประสบการณ์ไม่เกี่ยวเลย"
+      ],
+      "correct": 1,
+      "why": "การทดลองพัฒนาการต้องแยกหรือควบคุมอายุ สภาพแวดล้อม และคุณภาพการรับสัญญาณ",
+      "error": "mechanism"
+    },
+    {
+      "id": "C38",
+      "set": "C",
+      "topic": "Social Perception",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Social Perception",
+      "q": "คนสองคนเห็นคนแปลกหน้ายิ้มแบบเดียวกัน แต่ผู้หนึ่งเพิ่งได้ยินว่าเขาเป็นมิตร อีกผู้หนึ่งได้ยินว่าไม่น่าไว้วางใจ ความต่างของการตีความน่าจะมาจากอะไร?",
+      "opts": [
+        "Perceptual Set หรือความคาดหวังที่ส่งผลต่อการตีความทางสังคม",
+        "ข้อมูลกล้ามเนื้อใบหน้าเปลี่ยนจริงจากคำบอก",
+        "Ponzo illusion เพียงอย่างเดียว",
+        "Convergence เพิ่มขึ้นเพราะฟังคำบอก"
+      ],
+      "correct": 0,
+      "why": "บริบทและความคาดหวังสามารถเปลี่ยนการตีความสัญญาณทางสังคมเดียวกัน",
+      "error": "mechanism"
+    },
+    {
+      "id": "C39",
+      "set": "C",
+      "topic": "Social Perception",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Social Perception",
+      "q": "ผู้สังเกตตีความการไม่สบตาของคนใหม่ว่า “ไม่จริงใจ” ทันที โดยไม่มีข้อมูลบริบท ข้อใดคือการแก้การอนุมานให้แม่นขึ้น?",
+      "opts": [
+        "ถือว่าการไม่สบตาทุกรายเป็นสัญญาณเจตนาหลอกลวง",
+        "วัดสีตาแทนพฤติกรรมและบริบท",
+        "ให้ความสำคัญแต่ความรู้สึกแรกโดยไม่ตรวจสอบ",
+        "พิจารณาทั้งบริบททางวัฒนธรรม ความกังวล และสภาวะแวดล้อมก่อนสรุปลักษณะนิสัย"
+      ],
+      "correct": 3,
+      "why": "Social Perception มีความเสี่ยงต่อ attribution ที่เกินข้อมูลเมื่ออ่านสัญญาณไม่ชัด",
+      "error": "mechanism"
+    },
+    {
+      "id": "C40",
+      "set": "C",
+      "topic": "Social Perception",
+      "level": "analysis",
+      "difficulty": "hard",
+      "source": "S",
+      "page": "Social Perception",
+      "q": "ในคลิปเงียบ เห็นคนหนึ่งยกมือกะทันหันแล้วอีกคนถอยหลัง ผู้สังเกตสรุปว่า “เขากำลังคุกคาม” แต่ภายหลังพบว่าแค่กันลูกบอล ข้อใดแสดงข้อจำกัดของการรับรู้ทางสังคม?",
+      "opts": [
+        "ลูกบอลเปลี่ยนความเข้มแสงของคลิปย้อนหลัง",
+        "พฤติกรรมมนุษย์มีเจตนาเดียวเสมอ",
+        "สิ่งเร้าบางส่วนร่วมกับความคาดหวังทำให้อนุมานเจตนาผิดเมื่อขาดบริบท",
+        "การเห็นท่าทางไม่เกี่ยวกับการรับรู้เลย"
+      ],
+      "correct": 2,
+      "why": "การตีความการกระทำขึ้นกับบริบทและการอนุมานเจตนา ซึ่งอาจผิดหากเห็นข้อมูลบางส่วน",
+      "error": "mechanism"
+    }
+  ]
+}
